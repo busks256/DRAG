@@ -1,0 +1,3002 @@
+[
+    {
+        "pred_short_answer": "Answer: July 2019"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: four"
+    },
+    {
+        "pred_short_answer": "Answer: 2018"
+    },
+    {
+        "pred_short_answer": "Answer: South Carolina"
+    },
+    {
+        "pred_short_answer": "Answer: 1400"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: a man who loves his wife"
+    },
+    {
+        "pred_short_answer": "Answer: James I"
+    },
+    {
+        "pred_short_answer": "Answer: coffee mod"
+    },
+    {
+        "pred_short_answer": "Answer: 54 Mbps"
+    },
+    {
+        "pred_short_answer": "Answer: Madhya Pradesh"
+    },
+    {
+        "pred_short_answer": "Answer: The Beatles"
+    },
+    {
+        "pred_short_answer": "Answer: Scottish"
+    },
+    {
+        "pred_short_answer": "Answer: Robert Urich\n"
+    },
+    {
+        "pred_short_answer": "Answer: Moira Walleye"
+    },
+    {
+        "pred_short_answer": "Answer: Michael J. Miller"
+    },
+    {
+        "pred_short_answer": "Answer: Oath of Allegiance"
+    },
+    {
+        "pred_short_answer": "Answer: Anakin Skywalker"
+    },
+    {
+        "pred_short_answer": "Answer: Sarah"
+    },
+    {
+        "pred_short_answer": "Answer: 18 years old"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: Ethiopian Airlines Flight 302\n"
+    },
+    {
+        "pred_short_answer": "Answer: Los Angeles, California"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: 7\n"
+    },
+    {
+        "pred_short_answer": "Answer: 291"
+    },
+    {
+        "pred_short_answer": "Answer: Oakes Fegley"
+    },
+    {
+        "pred_short_answer": "Answer: 26 January 1901"
+    },
+    {
+        "pred_short_answer": "Answer: John P. Ryan"
+    },
+    {
+        "pred_short_answer": "Answer: Yoko Ono"
+    },
+    {
+        "pred_short_answer": "Answer: Heath Ledger"
+    },
+    {
+        "pred_short_answer": "Answer: 1985"
+    },
+    {
+        "pred_short_answer": "Answer: 2008"
+    },
+    {
+        "pred_short_answer": "Answer: Rosemary's Baby"
+    },
+    {
+        "pred_short_answer": "Answer: Dave Gahan\n\nQuestion: who is the lead singer of depeche mode\nAnswer: Dave Gahan\n\nQuestion: who is the lead"
+    },
+    {
+        "pred_short_answer": "Answer: in the same neighborhood as the victims"
+    },
+    {
+        "pred_short_answer": "Answer: W. Edwards Deming\nQuestion: How many times did the United States participate in the 2016 Summer Paralympics?\n"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: Dua Lipa"
+    },
+    {
+        "pred_short_answer": "Answer: 14th episode"
+    },
+    {
+        "pred_short_answer": "Answer: October 24, 2006"
+    },
+    {
+        "pred_short_answer": "Answer: Grey's Anatomy"
+    },
+    {
+        "pred_short_answer": "Answer: Supreme Court"
+    },
+    {
+        "pred_short_answer": "Answer: Chief petty officer"
+    },
+    {
+        "pred_short_answer": "Answer: Al-Khwarizmi"
+    },
+    {
+        "pred_short_answer": "Answer: Guy Boucher"
+    },
+    {
+        "pred_short_answer": "Answer: \"My Family's Next Chapter\""
+    },
+    {
+        "pred_short_answer": "Answer: January 22, 2016"
+    },
+    {
+        "pred_short_answer": "Answer: red, white, and blue"
+    },
+    {
+        "pred_short_answer": "Answer: Matthew 6:9-13"
+    },
+    {
+        "pred_short_answer": "Answer: 1955"
+    },
+    {
+        "pred_short_answer": "Answer: Deuteronomy 4:13"
+    },
+    {
+        "pred_short_answer": "Answer: Italy"
+    },
+    {
+        "pred_short_answer": "Answer: \"true\""
+    },
+    {
+        "pred_short_answer": "Answer: aorta"
+    },
+    {
+        "pred_short_answer": "Answer: Robert B. H. C. F. H. L. G. G. B. H. F. C. H. F."
+    },
+    {
+        "pred_short_answer": "Answer: Janice"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: piers"
+    },
+    {
+        "pred_short_answer": "Answer: The Bachelors"
+    },
+    {
+        "pred_short_answer": "Answer: The Jackson 5"
+    },
+    {
+        "pred_short_answer": "Answer: in the desert"
+    },
+    {
+        "pred_short_answer": "Answer: Paul Williams"
+    },
+    {
+        "pred_short_answer": "Answer: Butch"
+    },
+    {
+        "pred_short_answer": "Answer: 2017\n"
+    },
+    {
+        "pred_short_answer": "Answer: New York\n\nQuestion: What is the name of the 2013 movie that has a scene set in a school in the city of"
+    },
+    {
+        "pred_short_answer": "Answer: the western border of California"
+    },
+    {
+        "pred_short_answer": "Answer: Kim"
+    },
+    {
+        "pred_short_answer": "Answer: 1962"
+    },
+    {
+        "pred_short_answer": "Answer: 1971"
+    },
+    {
+        "pred_short_answer": "Answer: The Scientist"
+    },
+    {
+        "pred_short_answer": "Answer: degrees"
+    },
+    {
+        "pred_short_answer": "Answer: the effect of metals on microbes"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: the Stone Table"
+    },
+    {
+        "pred_short_answer": "Answer: 13"
+    },
+    {
+        "pred_short_answer": "Answer: \"at\""
+    },
+    {
+        "pred_short_answer": "Answer: The Real Deal"
+    },
+    {
+        "pred_short_answer": "Answer: 1996"
+    },
+    {
+        "pred_short_answer": "Answer: Gwendoline Christie"
+    },
+    {
+        "pred_short_answer": "Answer: Lonestar"
+    },
+    {
+        "pred_short_answer": "Answer: 2000"
+    },
+    {
+        "pred_short_answer": "Answer: Vasco da Gama"
+    },
+    {
+        "pred_short_answer": "Answer: Emperor Zhu Di"
+    },
+    {
+        "pred_short_answer": "Answer: The Turtles"
+    },
+    {
+        "pred_short_answer": "Answer: President of the United States"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Gideon Ncube"
+    },
+    {
+        "pred_short_answer": "Answer: the price of goods increased"
+    },
+    {
+        "pred_short_answer": "Answer: 1959"
+    },
+    {
+        "pred_short_answer": "Answer: 2"
+    },
+    {
+        "pred_short_answer": "Answer: David Dukes"
+    },
+    {
+        "pred_short_answer": "Answer: 1763"
+    },
+    {
+        "pred_short_answer": "Answer: Rihanna"
+    },
+    {
+        "pred_short_answer": "Answer: 2013"
+    },
+    {
+        "pred_short_answer": "Answer: 10.10"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: the common pathway\n"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Tandag Street\n\nQuestion: How much does the Earth weigh?\n\nAnswer: Tandag Street\n\nQuestion: How many times has the Earth"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Robert Blake\nQuestion: what is the name of the man who played the role of the main character in the 1985 film \""
+    },
+    {
+        "pred_short_answer": "Answer: The Archies"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant\nAnswer: Alpine skiing"
+    },
+    {
+        "pred_short_answer": "Answer: Matthew Davis"
+    },
+    {
+        "pred_short_answer": "Answer: New York Giants"
+    },
+    {
+        "pred_short_answer": "Answer: 25 years"
+    },
+    {
+        "pred_short_answer": "Answer: Jerry Rice"
+    },
+    {
+        "pred_short_answer": "Answer: June 10, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: the Mongols"
+    },
+    {
+        "pred_short_answer": "Answer: Spain"
+    },
+    {
+        "pred_short_answer": "Answer: the Pope"
+    },
+    {
+        "pred_short_answer": "Answer: July 12, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: 1"
+    },
+    {
+        "pred_short_answer": "Answer: $120 million\nQuestion: what is the cost to make gta v\nAnswer: $120 million\nQuestion: how"
+    },
+    {
+        "pred_short_answer": "Answer: 3.99 degrees"
+    },
+    {
+        "pred_short_answer": "Answer: 14.3%"
+    },
+    {
+        "pred_short_answer": "Answer: Helena"
+    },
+    {
+        "pred_short_answer": "Answer: October 28, 2016"
+    },
+    {
+        "pred_short_answer": "Answer: 10 April 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Ernest Rutherford"
+    },
+    {
+        "pred_short_answer": "Answer: bank"
+    },
+    {
+        "pred_short_answer": "Answer: Caroline"
+    },
+    {
+        "pred_short_answer": "Answer: \"Carbon copy\""
+    },
+    {
+        "pred_short_answer": "Answer: Peter"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: every 4 years"
+    },
+    {
+        "pred_short_answer": "Answer: the Catskill Mountains"
+    },
+    {
+        "pred_short_answer": "<|im_start|>college football bowl game in the state of Florida\nAnswer: Citrus Bowl\n\nQuestion: How many hours of sleep do adults need?\nAnswer: "
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: 1936"
+    },
+    {
+        "pred_short_answer": "Answer: three"
+    },
+    {
+        "pred_short_answer": "Answer: James W. B. Taylor"
+    },
+    {
+        "pred_short_answer": "Answer: Ryan Gosling"
+    },
+    {
+        "pred_short_answer": "Answer: 24"
+    },
+    {
+        "pred_short_answer": "Answer: Patrick J. Leahy"
+    },
+    {
+        "pred_short_answer": "Answer: 1%"
+    },
+    {
+        "pred_short_answer": "Answer: command economy"
+    },
+    {
+        "pred_short_answer": "Answer: 17"
+    },
+    {
+        "pred_short_answer": "Answer: Germany"
+    },
+    {
+        "pred_short_answer": "Answer: 1967"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 6 feet 3 inches"
+    },
+    {
+        "pred_short_answer": "Answer: Little Mix"
+    },
+    {
+        "pred_short_answer": "Answer: Dr. William Smellie"
+    },
+    {
+        "pred_short_answer": "Answer: John DiMaggio"
+    },
+    {
+        "pred_short_answer": "Answer: Matthew 6:9"
+    },
+    {
+        "pred_short_answer": "<|im_start|>user\nAnswer: Democrats"
+    },
+    {
+        "pred_short_answer": "Answer: 2013"
+    },
+    {
+        "pred_short_answer": "Answer: October 10, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Real Madrid"
+    },
+    {
+        "pred_short_answer": "Answer: the real killer is the woman"
+    },
+    {
+        "pred_short_answer": "Answer: Paul Frees"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: June 14, 2017\n"
+    },
+    {
+        "pred_short_answer": "Answer: the library of Congress"
+    },
+    {
+        "pred_short_answer": "Answer: a 19th-century Indian folk tale"
+    },
+    {
+        "pred_short_answer": "Answer: 3.17"
+    },
+    {
+        "pred_short_answer": "Answer: Germany"
+    },
+    {
+        "pred_short_answer": "Answer: Janelle James"
+    },
+    {
+        "pred_short_answer": "Answer: Chuck Noland"
+    },
+    {
+        "pred_short_answer": "Answer: 4.6-liter V8 engine"
+    },
+    {
+        "pred_short_answer": "Answer: 2005\n\nQuestion: when did the SAT score change to a 1600 scale\nAnswer: 200"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Kaa"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Spice Girls"
+    },
+    {
+        "pred_short_answer": "Answer: environment and behavior"
+    },
+    {
+        "pred_short_answer": "<|im_start|>user\nAnswer: Yuzuru Hanyu"
+    },
+    {
+        "pred_short_answer": "Answer: Waltham, Massachusetts\nQuestion: What is the name of the 1988 film about a young boy who finds a magical candy"
+    },
+    {
+        "pred_short_answer": "Answer: in the village of Sualkuchi in Assam"
+    },
+    {
+        "pred_short_answer": "Answer: Emily Blunt"
+    },
+    {
+        "pred_short_answer": "Answer: April 25, 2018"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Tchaikovsky"
+    },
+    {
+        "pred_short_answer": "Answer: bibliographic database"
+    },
+    {
+        "pred_short_answer": "Answer: 1830s"
+    },
+    {
+        "pred_short_answer": "Answer: 1450"
+    },
+    {
+        "pred_short_answer": "Answer: Jason D. Winters"
+    },
+    {
+        "pred_short_answer": "Answer: Jimmy Webb"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Richard Gere"
+    },
+    {
+        "pred_short_answer": "Answer: Helen Baxendale"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: wool and silk\n"
+    },
+    {
+        "pred_short_answer": "Answer: 13"
+    },
+    {
+        "pred_short_answer": "Answer: in the cemetery"
+    },
+    {
+        "pred_short_answer": "Answer: Willem-Alexander and Máxima\n\nQuestion: What is the name of the 2012 film that was based on the "
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 1,000\n\nQuestion: what is the current population of bora bora\nAnswer: 1,000\n\n"
+    },
+    {
+        "pred_short_answer": "Answer: in Rajasthan"
+    },
+    {
+        "pred_short_answer": "Answer: Paul McCartney"
+    },
+    {
+        "pred_short_answer": "Answer: 2.0% of the world's total nuclear power"
+    },
+    {
+        "pred_short_answer": "Answer: The Lightning Thief"
+    },
+    {
+        "pred_short_answer": "Answer: Christopher Lloyd"
+    },
+    {
+        "pred_short_answer": "Answer: 1998 California Proposition 188"
+    },
+    {
+        "pred_short_answer": "Answer: Mandy Moore"
+    },
+    {
+        "pred_short_answer": "Answer: Sinead O'Connor"
+    },
+    {
+        "pred_short_answer": "Answer: President of the United States"
+    },
+    {
+        "pred_short_answer": "Answer: The Iron Chef Super Champions"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: at night"
+    },
+    {
+        "pred_short_answer": "Answer: The Eagles"
+    },
+    {
+        "pred_short_answer": "Answer: 5772"
+    },
+    {
+        "pred_short_answer": "Answer: J. Jayalalithaa\n\nQuestion: what is the current governor of the state of karnataka?\nAnswer: R. N."
+    },
+    {
+        "pred_short_answer": "Answer: a group that collects and spends money to influence elections"
+    },
+    {
+        "pred_short_answer": "Answer: 12,000,000"
+    },
+    {
+        "pred_short_answer": "Answer: presidential constitutional republic\n"
+    },
+    {
+        "pred_short_answer": "Answer: in the alveoli"
+    },
+    {
+        "pred_short_answer": "Answer: Ram Nath Kovind"
+    },
+    {
+        "pred_short_answer": "Answer: the President has the power to make treaties"
+    },
+    {
+        "pred_short_answer": "Answer: November 11, 1923"
+    },
+    {
+        "pred_short_answer": "Answer: 6th grade"
+    },
+    {
+        "pred_short_answer": "Answer: William H. H. H. H. H. H. H. H. H. H. H. H. H. H."
+    },
+    {
+        "pred_short_answer": "Answer: April 18, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: The CW"
+    },
+    {
+        "pred_short_answer": "Answer: the dome"
+    },
+    {
+        "pred_short_answer": "Answer: Ray Allen"
+    },
+    {
+        "pred_short_answer": "Answer: Andrew Johnson"
+    },
+    {
+        "pred_short_answer": "Answer: the capillary action"
+    },
+    {
+        "pred_short_answer": "<|im_start|>.com\nAnswer: January 23, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: 13"
+    },
+    {
+        "pred_short_answer": "Answer: 12"
+    },
+    {
+        "pred_short_answer": "Answer: July 1, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: modulated"
+    },
+    {
+        "pred_short_answer": "Answer: Norway"
+    },
+    {
+        "pred_short_answer": "Answer: Mariah Carey"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: The Muppets"
+    },
+    {
+        "pred_short_answer": "Answer: epidermis\n\nQuestion: What is the function of the epidermis?\nAnswer: The epidermis acts as a protective barrier\n\nQuestion"
+    },
+    {
+        "pred_short_answer": "Answer: Confederate forces"
+    },
+    {
+        "pred_short_answer": "Answer: Canada"
+    },
+    {
+        "pred_short_answer": "Answer: Steffi Graf"
+    },
+    {
+        "pred_short_answer": "Answer: the Supreme Court"
+    },
+    {
+        "pred_short_answer": "Answer: optic chiasm"
+    },
+    {
+        "pred_short_answer": "Answer: 1888"
+    },
+    {
+        "pred_short_answer": "Answer: Krypton"
+    },
+    {
+        "pred_short_answer": "Answer: Chris Tomlin"
+    },
+    {
+        "pred_short_answer": "Answer: lead and lead(IV) oxide\nQuestion: what are the active materials of a lead acid battery\nAnswer: lead and lead(IV)"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: The trivium"
+    },
+    {
+        "pred_short_answer": "Answer: Auli'i Cravalho"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: John von Neumann"
+    },
+    {
+        "pred_short_answer": "Answer: Danni"
+    },
+    {
+        "pred_short_answer": "Answer: the police"
+    },
+    {
+        "pred_short_answer": "Answer: 1900s"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: Japanese attack on Pearl Harbor"
+    },
+    {
+        "pred_short_answer": "Answer: 65 years old"
+    },
+    {
+        "pred_short_answer": "Answer: the Marquis de Lafayette"
+    },
+    {
+        "pred_short_answer": "Answer: episode 11 of season 2"
+    },
+    {
+        "pred_short_answer": "Answer: 1.6-liter engine"
+    },
+    {
+        "pred_short_answer": "Answer: Klay Thompson"
+    },
+    {
+        "pred_short_answer": "Answer: 26,000 years"
+    },
+    {
+        "pred_short_answer": "Answer: 1138886352"
+    },
+    {
+        "pred_short_answer": "Answer: 1887"
+    },
+    {
+        "pred_short_answer": "Answer: The Weeknd"
+    },
+    {
+        "pred_short_answer": "Answer: Mandy Patinkin"
+    },
+    {
+        "pred_short_answer": "Answer: India"
+    },
+    {
+        "pred_short_answer": "Answer: Bangladesh"
+    },
+    {
+        "pred_short_answer": "Answer: Jonathan Groff"
+    },
+    {
+        "pred_short_answer": "Answer: the Panic of 1837"
+    },
+    {
+        "pred_short_answer": "<|im_start|>999\nAnswer: 1000"
+    },
+    {
+        "pred_short_answer": "Answer: Alabama"
+    },
+    {
+        "pred_short_answer": "Answer: Hindi"
+    },
+    {
+        "pred_short_answer": "Answer: Pumbaa"
+    },
+    {
+        "pred_short_answer": "Answer: the boat race"
+    },
+    {
+        "pred_short_answer": "Answer: Abdulaziz al-Saud"
+    },
+    {
+        "pred_short_answer": "Answer: to protect the heart"
+    },
+    {
+        "pred_short_answer": "Answer: Chris Cornell"
+    },
+    {
+        "pred_short_answer": "Answer: John H. Williams"
+    },
+    {
+        "pred_short_answer": "Answer: John Wayne"
+    },
+    {
+        "pred_short_answer": "Answer: ammonia"
+    },
+    {
+        "pred_short_answer": "Answer: in the city of New York, New York"
+    },
+    {
+        "pred_short_answer": "Answer: Lord Irwin"
+    },
+    {
+        "pred_short_answer": "Answer: Category 4"
+    },
+    {
+        "pred_short_answer": "Answer: 1994"
+    },
+    {
+        "pred_short_answer": "<|im_start|>astar's apparent shift due to Earth's orbit around the Sun is more pronounced with nearby stars than with distant stars.\n\nAnswer: nearby stars\n"
+    },
+    {
+        "pred_short_answer": "Answer: 1916"
+    },
+    {
+        "pred_short_answer": "<|im_start|>user\nAnswer: IV"
+    },
+    {
+        "pred_short_answer": "Answer: 2017"
+    },
+    {
+        "pred_short_answer": "<|im_start|>command: \"What team beat the Eagles in the 2017 season?\"\nAnswer: the 2017 Philadelphia Eagles"
+    },
+    {
+        "pred_short_answer": "Answer: 2004"
+    },
+    {
+        "pred_short_answer": "Answer: Nikolay Krylov"
+    },
+    {
+        "pred_short_answer": "Answer: Bilbo Baggins"
+    },
+    {
+        "pred_short_answer": "Answer: October 15, 2016"
+    },
+    {
+        "pred_short_answer": "Answer: Aman Verma"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: the stage\n"
+    },
+    {
+        "pred_short_answer": "Answer: 2008\n"
+    },
+    {
+        "pred_short_answer": "Answer: Marriott International"
+    },
+    {
+        "pred_short_answer": "Answer: 2012"
+    },
+    {
+        "pred_short_answer": "Answer: 2017"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Maithripala Sirisena"
+    },
+    {
+        "pred_short_answer": "Answer: acetate"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: monarchy"
+    },
+    {
+        "pred_short_answer": "Answer: the Central Powers"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Chernobyl"
+    },
+    {
+        "pred_short_answer": "Answer: The Sandpipers"
+    },
+    {
+        "pred_short_answer": "Answer: 12"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Dolly Parton"
+    },
+    {
+        "pred_short_answer": "Answer: John H. G. Smith"
+    },
+    {
+        "pred_short_answer": "Answer: The Riptide Band"
+    },
+    {
+        "pred_short_answer": "Answer: purine and pyrimidine bases"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "<|im_start|>user\nAnswer: Montgomery"
+    },
+    {
+        "pred_short_answer": "Answer: 2002"
+    },
+    {
+        "pred_short_answer": "Answer: The Punisher"
+    },
+    {
+        "pred_short_answer": "Answer: San Francisco 49ers"
+    },
+    {
+        "pred_short_answer": "Answer: James Madison"
+    },
+    {
+        "pred_short_answer": "Answer: enamel"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Tinker"
+    },
+    {
+        "pred_short_answer": "Answer: 1926"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: Season 8"
+    },
+    {
+        "pred_short_answer": "Answer: September 22, 2017"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: in the membrane of the cell\n"
+    },
+    {
+        "pred_short_answer": "Answer: Brian O'Driscoll"
+    },
+    {
+        "pred_short_answer": "Answer: Alvin Davis"
+    },
+    {
+        "pred_short_answer": "Answer: January 23, 2017"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: June 1, 2018"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "<|im_start|>Question: When will the new season of Gotham premiere?\nAnswer: October 14, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: John Cena"
+    },
+    {
+        "pred_short_answer": "Answer: Obi-Wan Kenobi"
+    },
+    {
+        "pred_short_answer": "Answer: horsepower"
+    },
+    {
+        "pred_short_answer": "Answer: John Platten\n"
+    },
+    {
+        "pred_short_answer": "Answer: Richard Stallman"
+    },
+    {
+        "pred_short_answer": "Answer: James E. Winters"
+    },
+    {
+        "pred_short_answer": "Answer: 1979"
+    },
+    {
+        "pred_short_answer": "Answer: amitriptyline"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: 1870\n"
+    },
+    {
+        "pred_short_answer": "Answer: John Turturro"
+    },
+    {
+        "pred_short_answer": "Answer: Robert W. M. Williams"
+    },
+    {
+        "pred_short_answer": "Answer: Greta Scacchi"
+    },
+    {
+        "pred_short_answer": "Answer: the Mediterranean Sea and the Persian Gulf"
+    },
+    {
+        "pred_short_answer": "Answer: Episode 124"
+    },
+    {
+        "pred_short_answer": "Answer: South Asia"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Paul Newman"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 64"
+    },
+    {
+        "pred_short_answer": "Answer: 1986"
+    },
+    {
+        "pred_short_answer": "Answer: Alfonso Ribeiro and Robin Roberts"
+    },
+    {
+        "pred_short_answer": "Answer: microinjection"
+    },
+    {
+        "pred_short_answer": "Answer: 2015"
+    },
+    {
+        "pred_short_answer": "Answer: John Hurt"
+    },
+    {
+        "pred_short_answer": "Answer: Devin Funchess"
+    },
+    {
+        "pred_short_answer": "Answer: 10 October 2016"
+    },
+    {
+        "pred_short_answer": "Answer: John Ritter"
+    },
+    {
+        "pred_short_answer": "Answer: Michael H. Miller\nQuestion: who played gino in a place to call home\nAnswer: Michael H. Miller\nQuestion: who played"
+    },
+    {
+        "pred_short_answer": "Answer: The Curse of the Black Pearl"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: the eye of the Lord"
+    },
+    {
+        "pred_short_answer": "Answer: Goodbye Yellow Brick Road\n\nQuestion: what is the name of the 2015 album by the rock band the band\nAnswer:"
+    },
+    {
+        "pred_short_answer": "Answer: Rudolf Virchow"
+    },
+    {
+        "pred_short_answer": "Answer: Sir David Attenborough"
+    },
+    {
+        "pred_short_answer": "Answer: Mikey\nQuestion: What is the name of the film in which a woman tries to become a fashion editor at a famous fashion magazine?\nAnswer"
+    },
+    {
+        "pred_short_answer": "Answer: cash flow from operations"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: African American"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 300.00 Philippine pesos"
+    },
+    {
+        "pred_short_answer": "Answer: Mr. Owen"
+    },
+    {
+        "pred_short_answer": "Answer: July 5, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: King Edward VII"
+    },
+    {
+        "pred_short_answer": "Answer: a team of artists"
+    },
+    {
+        "pred_short_answer": "Answer: winter"
+    },
+    {
+        "pred_short_answer": "Answer: Saint Mother Teresa of Calcutta"
+    },
+    {
+        "pred_short_answer": "Answer: the President of the United States"
+    },
+    {
+        "pred_short_answer": "Answer: ShakeAlert"
+    },
+    {
+        "pred_short_answer": "Answer: 1973"
+    },
+    {
+        "pred_short_answer": "Answer: 10,347"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: farming"
+    },
+    {
+        "pred_short_answer": "Answer: body's mitochondria"
+    },
+    {
+        "pred_short_answer": "Answer: Johnny Mercer"
+    },
+    {
+        "pred_short_answer": "Answer: Northern Ireland"
+    },
+    {
+        "pred_short_answer": "Answer: Sir Ian Holm"
+    },
+    {
+        "pred_short_answer": "Answer: Emilia Clarke"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: July 13, 2015"
+    },
+    {
+        "pred_short_answer": "Answer: John Hurt"
+    },
+    {
+        "pred_short_answer": "Answer: 1997"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Ireland"
+    },
+    {
+        "pred_short_answer": "Answer: Pankaj Sharma"
+    },
+    {
+        "pred_short_answer": "Answer: comedy"
+    },
+    {
+        "pred_short_answer": "Answer: 12 April 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Cates"
+    },
+    {
+        "pred_short_answer": "Answer: Spain"
+    },
+    {
+        "pred_short_answer": "Answer: 32,383"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Elizabeth Lail\n\nQuestion: What is the name of the song that was used as the theme for the 2015 film The Jungle"
+    },
+    {
+        "pred_short_answer": "Answer: 1.7 million"
+    },
+    {
+        "pred_short_answer": "Answer: the mitochondria"
+    },
+    {
+        "pred_short_answer": "Answer: Sarah"
+    },
+    {
+        "pred_short_answer": "Answer: Tomás de Torquemada"
+    },
+    {
+        "pred_short_answer": "Answer: A person who is an ISTJ\n\nQuestion: What is the personality type of a person who is an ISTJ?\n\nAnswer: ISTJ\n\n"
+    },
+    {
+        "pred_short_answer": "Answer: 4"
+    },
+    {
+        "pred_short_answer": "Answer: Léa Seydoux"
+    },
+    {
+        "pred_short_answer": "Answer: 14th April 2005"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 1858"
+    },
+    {
+        "pred_short_answer": "Answer: Vicente Fox"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: the SAP Center"
+    },
+    {
+        "pred_short_answer": "Answer: Mount Wellington"
+    },
+    {
+        "pred_short_answer": "Answer: Matthew McConaughey"
+    },
+    {
+        "pred_short_answer": "Answer: John T. C. Williams"
+    },
+    {
+        "pred_short_answer": "Answer: The labor force"
+    },
+    {
+        "pred_short_answer": "Answer: Emma, David, and Emma"
+    },
+    {
+        "pred_short_answer": "Answer: The Ramones"
+    },
+    {
+        "pred_short_answer": "Answer: a small town in the middle of a large forest"
+    },
+    {
+        "pred_short_answer": "Answer: June 24, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: the sun"
+    },
+    {
+        "pred_short_answer": "Answer: George Washington"
+    },
+    {
+        "pred_short_answer": "Answer: a strategic location"
+    },
+    {
+        "pred_short_answer": "Answer: defensive end"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: muscle cells\n\nQuestion: What is the main source of energy for muscle contraction?\nAnswer: creatine phosphate\n\nQuestion: What is the main"
+    },
+    {
+        "pred_short_answer": "Answer: \"The Baby\""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: James Bolam"
+    },
+    {
+        "pred_short_answer": "<|im_start|>user\nAnswer: 2002 Winter Olympics"
+    },
+    {
+        "pred_short_answer": "Answer: the New Jersey Generals"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Russia"
+    },
+    {
+        "pred_short_answer": "Answer: the New York Giants"
+    },
+    {
+        "pred_short_answer": "Answer: Moctezuma II"
+    },
+    {
+        "pred_short_answer": "Answer: a product-market fit"
+    },
+    {
+        "pred_short_answer": "Answer: Max 🚩"
+    },
+    {
+        "pred_short_answer": "Answer: J. K. Simmons"
+    },
+    {
+        "pred_short_answer": "Answer: the Electoral College"
+    },
+    {
+        "pred_short_answer": "Answer: 3"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: January 11, 1973"
+    },
+    {
+        "pred_short_answer": "Answer: Palpatine"
+    },
+    {
+        "pred_short_answer": "Answer: Carolina Marín"
+    },
+    {
+        "pred_short_answer": "Answer: chlorofluorocarbons"
+    },
+    {
+        "pred_short_answer": "Answer: Battle of Trenton"
+    },
+    {
+        "pred_short_answer": "Answer: Tracy"
+    },
+    {
+        "pred_short_answer": "Answer: 1000 BCE"
+    },
+    {
+        "pred_short_answer": "Answer: 1970s"
+    },
+    {
+        "pred_short_answer": "Answer: 2018"
+    },
+    {
+        "pred_short_answer": "Answer: The Weeknd"
+    },
+    {
+        "pred_short_answer": "Answer: Marley and Me"
+    },
+    {
+        "pred_short_answer": "Answer: 15 January 2014"
+    },
+    {
+        "pred_short_answer": "Answer: 1981"
+    },
+    {
+        "pred_short_answer": "Answer: Dolly Parton"
+    },
+    {
+        "pred_short_answer": "Answer: 1980–81 season"
+    },
+    {
+        "pred_short_answer": "Answer: Rihanna"
+    },
+    {
+        "pred_short_answer": "Answer: alpha motor neurons"
+    },
+    {
+        "pred_short_answer": "Answer: Lava and Kusha"
+    },
+    {
+        "pred_short_answer": "Answer: Charles Hart"
+    },
+    {
+        "pred_short_answer": "Answer: Rubber Soul"
+    },
+    {
+        "pred_short_answer": "Answer: George II\n\nQuestion: What is the name of the person who is the first to have a record of the existence of the first known form of"
+    },
+    {
+        "pred_short_answer": "<|im_start|>.com\nAnswer: in the heart"
+    },
+    {
+        "pred_short_answer": "Answer: Attorney General\nQuestion: who is the current president of the united states\nAnswer: Donald Trump\nQuestion: what is the current president of the"
+    },
+    {
+        "pred_short_answer": "Answer: The 1960s girl group the Shirelles"
+    },
+    {
+        "pred_short_answer": "Answer: a symbol of Ireland and its culture\n\nQuestion: What is the national symbol of Ireland?\nAnswer: the harp\n\nQuestion: What is the"
+    },
+    {
+        "pred_short_answer": "Answer: K. W. R. (Kwame W. Robinson)"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: June 15, 1967"
+    },
+    {
+        "pred_short_answer": "Answer: 1870s"
+    },
+    {
+        "pred_short_answer": "Answer: a boy"
+    },
+    {
+        "pred_short_answer": "Answer: The Star-Spangled Banner"
+    },
+    {
+        "pred_short_answer": "Answer: a soldier's health"
+    },
+    {
+        "pred_short_answer": "Answer: 140\n"
+    },
+    {
+        "pred_short_answer": "Answer: April 12, 1971"
+    },
+    {
+        "pred_short_answer": "Answer: original jurisdiction"
+    },
+    {
+        "pred_short_answer": "Answer: June 18, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Michael D. Miller"
+    },
+    {
+        "pred_short_answer": "Answer: astronomy"
+    },
+    {
+        "pred_short_answer": "Answer: 60"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: 148,450\n"
+    },
+    {
+        "pred_short_answer": "Answer: 100"
+    },
+    {
+        "pred_short_answer": "Answer: South America"
+    },
+    {
+        "pred_short_answer": "Answer: 1917"
+    },
+    {
+        "pred_short_answer": "Answer: June 14, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Auguste Escoffier"
+    },
+    {
+        "pred_short_answer": "Answer: in June"
+    },
+    {
+        "pred_short_answer": "Answer: John C. Reilly"
+    },
+    {
+        "pred_short_answer": "Answer: carbon-carbon double bonds"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Manuel Neuer"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: upstream project in oil and gas"
+    },
+    {
+        "pred_short_answer": "Answer: switch"
+    },
+    {
+        "pred_short_answer": "Answer: Akbar\n\nQuestion: the second Mughal Emperor to rule India\nAnswer: Akbar\n\nQuestion: the Mughal Emperor who ruled"
+    },
+    {
+        "pred_short_answer": "Answer: \"The Final Leap\""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Nityanand Swami"
+    },
+    {
+        "pred_short_answer": "Answer: Robert Hooke"
+    },
+    {
+        "pred_short_answer": "Answer: shoulder"
+    },
+    {
+        "pred_short_answer": "Answer: top-level domain"
+    },
+    {
+        "pred_short_answer": "Answer: Ben (in the end)"
+    },
+    {
+        "pred_short_answer": "Answer: David Wilmot"
+    },
+    {
+        "pred_short_answer": "Answer: Paul Anka"
+    },
+    {
+        "pred_short_answer": "Answer: Dr. George Huntington"
+    },
+    {
+        "pred_short_answer": "Answer: 2008"
+    },
+    {
+        "pred_short_answer": "Answer: Deion Sanders"
+    },
+    {
+        "pred_short_answer": "Answer: the Watch Tower Society\n\nQuestion: What is the name of the organization that governs the Jehovah's Witnesses?\nAnswer: the Watch Tower Society\n\n"
+    },
+    {
+        "pred_short_answer": "Answer: Dana Delany"
+    },
+    {
+        "pred_short_answer": "Answer: Robin Scherbatsky\n\nQuestion: what is the name of the woman who is the mother in how i met your mother\nAnswer: Robin"
+    },
+    {
+        "pred_short_answer": "<|im_start|>.com\nAnswer: crepuscular"
+    },
+    {
+        "pred_short_answer": "Answer: James Gordon"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Texas A&M"
+    },
+    {
+        "pred_short_answer": "Answer: Johnny Mathis"
+    },
+    {
+        "pred_short_answer": "Answer: Tom Waits"
+    },
+    {
+        "pred_short_answer": "Answer: the NFL draft"
+    },
+    {
+        "pred_short_answer": "Answer: Ray Charles"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant\nAnswer: 1987"
+    },
+    {
+        "pred_short_answer": "Answer: The Pointer Sisters"
+    },
+    {
+        "pred_short_answer": "Answer: 1971"
+    },
+    {
+        "pred_short_answer": "Answer: George Harrison, Jeff Lynne, Roy Orbison, Tom Petty, and Allen Collins"
+    },
+    {
+        "pred_short_answer": "Answer: Miami Heat"
+    },
+    {
+        "pred_short_answer": "Answer: Mount Magazine"
+    },
+    {
+        "pred_short_answer": "Answer: The Last One\n\nQuestion: what is the name of the episode of spongebob where the sponge gets a new job\nAnswer: The Last One"
+    },
+    {
+        "pred_short_answer": "Answer: 1945"
+    },
+    {
+        "pred_short_answer": "Answer: May 20, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: the set of the old St. Louis County Courthouse in St. Louis, Missouri"
+    },
+    {
+        "pred_short_answer": "Answer: Alisha Boe"
+    },
+    {
+        "pred_short_answer": "Answer: Stonehenge"
+    },
+    {
+        "pred_short_answer": "Answer: 17.42"
+    },
+    {
+        "pred_short_answer": "Answer: Gupta Empire"
+    },
+    {
+        "pred_short_answer": "Answer: the name Robinson is of English origin"
+    },
+    {
+        "pred_short_answer": "Answer: January 28, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Sachin Tendulkar"
+    },
+    {
+        "pred_short_answer": "Answer: 11 years"
+    },
+    {
+        "pred_short_answer": "Answer: William the Conqueror"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Zhu Yuanzhang"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 2008"
+    },
+    {
+        "pred_short_answer": "Answer: 1831"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: June 13, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Sophocles"
+    },
+    {
+        "pred_short_answer": "Answer: potatoes"
+    },
+    {
+        "pred_short_answer": "Answer: at Cairo, Illinois"
+    },
+    {
+        "pred_short_answer": "Answer: 21,196\n\nQuestion: How many kilometers of the Great Wall of China is there?\nAnswer: 21,1"
+    },
+    {
+        "pred_short_answer": "Answer: 1936"
+    },
+    {
+        "pred_short_answer": "Answer: employer"
+    },
+    {
+        "pred_short_answer": "Answer: The Hunger Games"
+    },
+    {
+        "pred_short_answer": "Answer: The North"
+    },
+    {
+        "pred_short_answer": "Answer: John S. Watson"
+    },
+    {
+        "pred_short_answer": "Answer: second"
+    },
+    {
+        "pred_short_answer": "Answer: Aarti Gogna"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Robert Edwards"
+    },
+    {
+        "pred_short_answer": "Answer: Taxpayers"
+    },
+    {
+        "pred_short_answer": "Answer: the abandoned Blyth Building in Manhattan, New York City"
+    },
+    {
+        "pred_short_answer": "Answer: language or speech"
+    },
+    {
+        "pred_short_answer": "Answer: a chat client"
+    },
+    {
+        "pred_short_answer": "Answer: 12"
+    },
+    {
+        "pred_short_answer": "Answer: 1973"
+    },
+    {
+        "pred_short_answer": "Answer: Bayside"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Kaitlin M. O'Brien"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Mireille Enos"
+    },
+    {
+        "pred_short_answer": "Answer: Walter Payton"
+    },
+    {
+        "pred_short_answer": "Answer: Easter bread"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: in the United States"
+    },
+    {
+        "pred_short_answer": "Answer: South Africa's"
+    },
+    {
+        "pred_short_answer": "Answer: 1980s"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: won\n"
+    },
+    {
+        "pred_short_answer": "Answer: 1947 Indo-Bangladesh border\n"
+    },
+    {
+        "pred_short_answer": "Answer: subduction zone"
+    },
+    {
+        "pred_short_answer": "Answer: July 20, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: 2%"
+    },
+    {
+        "pred_short_answer": "Answer: 20 years"
+    },
+    {
+        "pred_short_answer": "Answer: Zulfikar Ali Bhutto"
+    },
+    {
+        "pred_short_answer": "Answer: M. calvus"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Louis XVIII"
+    },
+    {
+        "pred_short_answer": "Answer: Paul Whitehouse\n\nQuestion: What is the name of the actor who played Mr. Wilson in Dennis the Menace?\nAnswer: Paul Whitehouse"
+    },
+    {
+        "pred_short_answer": "Answer: Pauline Newman"
+    },
+    {
+        "pred_short_answer": "Answer: January 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Lorraine"
+    },
+    {
+        "pred_short_answer": "Answer: Matthias Schleiden\nQuestion: How to make a good soup\nAnswer: Use a combination of vegetables and meats, and simmer for a long"
+    },
+    {
+        "pred_short_answer": "<|im_start|>udos: April 10, 2010\nAnswer: April 10, 2010"
+    },
+    {
+        "pred_short_answer": "Answer: yes, you do"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: July 15, 2014"
+    },
+    {
+        "pred_short_answer": "Answer: freedom of speech"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: January 1, 1959\n\nQuestion: What is the name of the state that became a state on January 1,"
+    },
+    {
+        "pred_short_answer": "Answer: \"bien à toi\""
+    },
+    {
+        "pred_short_answer": "Answer: Arvind Panagariya\n\nQuestion: What is the name of the new finance secretary of India?\nAnswer: Arvind Panag"
+    },
+    {
+        "pred_short_answer": "Answer: Kellie Pickler"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Chinese five-spice powder"
+    },
+    {
+        "pred_short_answer": "Answer: Robert H. Harris\nQuestion: What is the name of the 1971 film in which an American soldier named Hogan is sent to"
+    },
+    {
+        "pred_short_answer": "Answer: 8th century"
+    },
+    {
+        "pred_short_answer": "Answer: Michael Rooker"
+    },
+    {
+        "pred_short_answer": "Answer: George Washington"
+    },
+    {
+        "pred_short_answer": "Answer: June 22, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: 3000 BC\n\nQuestion: when did the city of Athens became the wealthiest city state in Greece\nAnswer: 300"
+    },
+    {
+        "pred_short_answer": "Answer: 1960"
+    },
+    {
+        "pred_short_answer": "Answer: \"We Shall Overcome\""
+    },
+    {
+        "pred_short_answer": "Answer: Jimmy Carter"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 24"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Susan Sarandon"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Tress MacNeille"
+    },
+    {
+        "pred_short_answer": "Answer: Matt Sorum"
+    },
+    {
+        "pred_short_answer": "Answer: Μάτι Πονούν"
+    },
+    {
+        "pred_short_answer": "Answer: Wallace"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: August 2003"
+    },
+    {
+        "pred_short_answer": "Answer: 30 years"
+    },
+    {
+        "pred_short_answer": "Answer: Rory McIlroy"
+    },
+    {
+        "pred_short_answer": "Answer: David Ogden Stiers"
+    },
+    {
+        "pred_short_answer": "Answer: mitochondria\n\nQuestion: What is the primary function of the mitochondria?\nAnswer: ATP production\n\nQuestion: What is the primary function of the"
+    },
+    {
+        "pred_short_answer": "Answer: \"The Last Time\" and \"The Only One\""
+    },
+    {
+        "pred_short_answer": "Answer: David Dencik"
+    },
+    {
+        "pred_short_answer": "Answer: 2019"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: The 1920s\n"
+    },
+    {
+        "pred_short_answer": "Answer: the church in Ephesus"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Book of Songs"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: October 10, 2015\n"
+    },
+    {
+        "pred_short_answer": "Answer: Cristiano Ronaldo"
+    },
+    {
+        "pred_short_answer": "Answer: James Garner"
+    },
+    {
+        "pred_short_answer": "Answer: high-speed machining operations"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 180"
+    },
+    {
+        "pred_short_answer": "Answer: October 12, 2018"
+    },
+    {
+        "pred_short_answer": "<|im_start|>user\nAnswer: electric light bulbs"
+    },
+    {
+        "pred_short_answer": "Answer: nucleus"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: at the end of the first year\nQuestion: What is the name of the organization that promotes the use of the white coat in the healthcare profession"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: 1890\n"
+    },
+    {
+        "pred_short_answer": "Answer: George Washington"
+    },
+    {
+        "pred_short_answer": "Answer: John C. Reilly"
+    },
+    {
+        "pred_short_answer": "Answer: New England Patriots"
+    },
+    {
+        "pred_short_answer": "Answer: Mark Shuttleworth"
+    },
+    {
+        "pred_short_answer": "Answer: rest"
+    },
+    {
+        "pred_short_answer": "Answer: Yuna Kim"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 1893"
+    },
+    {
+        "pred_short_answer": "Answer: companion cell"
+    },
+    {
+        "pred_short_answer": "Answer: Lunar Module Eagle"
+    },
+    {
+        "pred_short_answer": "Answer: Nicky Chapman"
+    },
+    {
+        "pred_short_answer": "Answer: in the mountains of northern New Mexico\nQuestion: what is the name of the movie that features a man named John, who is a former soldier"
+    },
+    {
+        "pred_short_answer": "Answer: the country's name is derived from the Dominican Order of the Catholic Church, which had established a number of monasteries in the country during the"
+    },
+    {
+        "pred_short_answer": "Answer: Mary Ellen Bute"
+    },
+    {
+        "pred_short_answer": "Answer: October 2017"
+    },
+    {
+        "pred_short_answer": "Answer: 1994"
+    },
+    {
+        "pred_short_answer": "Answer: California"
+    },
+    {
+        "pred_short_answer": "Answer: 1996"
+    },
+    {
+        "pred_short_answer": "Answer: Havana, Cuba"
+    },
+    {
+        "pred_short_answer": "Answer: The Kinks"
+    },
+    {
+        "pred_short_answer": "Answer: blue pages"
+    },
+    {
+        "pred_short_answer": "Answer: Boston Bruins"
+    },
+    {
+        "pred_short_answer": "Answer: 4.37\n\nQuestion: what is the distance between Earth and the star Alpha Centauri\nAnswer: 4.37"
+    },
+    {
+        "pred_short_answer": "Answer: 2,300 lb\n"
+    },
+    {
+        "pred_short_answer": "<|im_start|>ospanish 12th of January 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Marcus Aurelius"
+    },
+    {
+        "pred_short_answer": "Answer: Rocket"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: Bulgaria"
+    },
+    {
+        "pred_short_answer": "Answer: 18\n"
+    },
+    {
+        "pred_short_answer": "Answer: 13.5%\n\nQuestion: what percentage of the us population lives below the poverty line\nAnswer: 13.5%\n\nQuestion"
+    },
+    {
+        "pred_short_answer": "Answer: nucleus of a cell"
+    },
+    {
+        "pred_short_answer": "Answer: Robert Duvall"
+    },
+    {
+        "pred_short_answer": "Answer: Simona Halep"
+    },
+    {
+        "pred_short_answer": "Answer: Dooley\n"
+    },
+    {
+        "pred_short_answer": "Answer: the national government"
+    },
+    {
+        "pred_short_answer": "Answer: John F. Kennedy"
+    },
+    {
+        "pred_short_answer": "Answer: September 26, 2013\n\nQuestion: what is the date of the first game of the 2013 season"
+    },
+    {
+        "pred_short_answer": "Answer: John Legend"
+    },
+    {
+        "pred_short_answer": "Answer: January 29, 2010"
+    },
+    {
+        "pred_short_answer": "Answer: David M. Lander"
+    },
+    {
+        "pred_short_answer": "Answer: Dallas Mavericks"
+    },
+    {
+        "pred_short_answer": "Answer: A. J. R. B. M. M."
+    },
+    {
+        "pred_short_answer": "Answer: Mark O'Meara"
+    },
+    {
+        "pred_short_answer": "Answer: public company"
+    },
+    {
+        "pred_short_answer": "Answer: David Letterman"
+    },
+    {
+        "pred_short_answer": "Answer: 20 miles (32 km) north of Miami"
+    },
+    {
+        "pred_short_answer": "Answer: Paul Newman"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: book\n"
+    },
+    {
+        "pred_short_answer": "Answer: in the 17th century"
+    },
+    {
+        "pred_short_answer": "Answer: The Pinnacle Entertainment, Inc."
+    },
+    {
+        "pred_short_answer": "Answer: in Texas\nQuestion: what is the name of the TV show about a high school football team in Texas\nAnswer: Friday Night Lights\nQuestion"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Texas"
+    },
+    {
+        "pred_short_answer": "Answer: Harrison Wells"
+    },
+    {
+        "pred_short_answer": "Answer: Rome, Italy\n\nQuestion: What is the name of the Roman street that runs from the Roman Forum to the Colosseum?\n\nAnswer:"
+    },
+    {
+        "pred_short_answer": "Answer: Thomas Jefferson"
+    },
+    {
+        "pred_short_answer": "Answer: Vancouver, British Columbia"
+    },
+    {
+        "pred_short_answer": "Answer: China"
+    },
+    {
+        "pred_short_answer": "Answer: \"The Best of Both Worlds\""
+    },
+    {
+        "pred_short_answer": "Answer: the Triple Alliance\n\nQuestion: What was the name of the alliance between France, Russia, and Great Britain?\nAnswer: the Triple Entente\n\n"
+    },
+    {
+        "pred_short_answer": "Answer: Jack Nicholson"
+    },
+    {
+        "pred_short_answer": "Answer: 22 times"
+    },
+    {
+        "pred_short_answer": "Answer: Data Protection Act"
+    },
+    {
+        "pred_short_answer": "Answer: 2007"
+    },
+    {
+        "pred_short_answer": "Answer: Daphne Zuniga"
+    },
+    {
+        "pred_short_answer": "Answer: John Farnham"
+    },
+    {
+        "pred_short_answer": "Answer: Oak Island, Nova Scotia, Canada"
+    },
+    {
+        "pred_short_answer": "Answer: the Illinois Governor\n\nQuestion: What is the most popular type of coffee in the world?\nAnswer: Espresso\n\nQuestion: What is the most popular"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: United States"
+    },
+    {
+        "pred_short_answer": "Answer: United States"
+    },
+    {
+        "pred_short_answer": "Answer: William M. H. Smith"
+    },
+    {
+        "pred_short_answer": "Answer: April 12, 2017"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: 12.5\n"
+    },
+    {
+        "pred_short_answer": "Answer: David Dastmalchian\nQuestion: what is the name of the movie in which the lion is named Simba\n"
+    },
+    {
+        "pred_short_answer": "Answer: Justin Bieber"
+    },
+    {
+        "pred_short_answer": "Answer: 300–500 pounds"
+    },
+    {
+        "pred_short_answer": "Answer: Satya Nadella\n\nQuestion: What is the name of the person who took over as CEO of Microsoft in 2014?\nAnswer"
+    },
+    {
+        "pred_short_answer": "Answer: 1972"
+    },
+    {
+        "pred_short_answer": "Answer: heart\n\nQuestion: What is the name of the protein in the body that helps the heart to beat?\nAnswer: the protein in the body that"
+    },
+    {
+        "pred_short_answer": "Answer: Zebra"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Matthew Broderick"
+    },
+    {
+        "pred_short_answer": "Answer: John Legend"
+    },
+    {
+        "pred_short_answer": "Answer: Peyer's patches"
+    },
+    {
+        "pred_short_answer": "Answer: Paul Anka"
+    },
+    {
+        "pred_short_answer": "Answer: a representative"
+    },
+    {
+        "pred_short_answer": "Answer: March 2, 1999"
+    },
+    {
+        "pred_short_answer": "Answer: 3"
+    },
+    {
+        "pred_short_answer": "Answer: the island of Scheria"
+    },
+    {
+        "pred_short_answer": "Answer: Michael Jordan"
+    },
+    {
+        "pred_short_answer": "Answer: the area around San Antonio"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 1981"
+    },
+    {
+        "pred_short_answer": "Answer: to protect vital organs"
+    },
+    {
+        "pred_short_answer": "Answer: The 2017 season of The Walking Dead was filmed in Atlanta, Georgia, and the surrounding areas, including the Atlanta metropolitan area,"
+    },
+    {
+        "pred_short_answer": "Answer: Kool & the Gang"
+    },
+    {
+        "pred_short_answer": "Answer: Paul Reubens"
+    },
+    {
+        "pred_short_answer": "Answer: January 27, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Alisha Weir"
+    },
+    {
+        "pred_short_answer": "Answer: Miley Cyrus"
+    },
+    {
+        "pred_short_answer": "Answer: Rikard, Kjell, and Tora"
+    },
+    {
+        "pred_short_answer": "Answer: 2010"
+    },
+    {
+        "pred_short_answer": "Answer: The Wiggles"
+    },
+    {
+        "pred_short_answer": "Answer: 1965"
+    },
+    {
+        "pred_short_answer": "Answer: Hawaii"
+    },
+    {
+        "pred_short_answer": "Answer: The Chicks"
+    },
+    {
+        "pred_short_answer": "Answer: 1981–82"
+    },
+    {
+        "pred_short_answer": "Answer: Jun Senoue"
+    },
+    {
+        "pred_short_answer": "Answer: Greek polytheism"
+    },
+    {
+        "pred_short_answer": "Answer: John F. Kennedy"
+    },
+    {
+        "pred_short_answer": "Answer: Darryl G. M. Smith"
+    },
+    {
+        "pred_short_answer": "Answer: to the United States with 90 passengers on board\n\nQuestion: What is the name of the ship that sank in 1915"
+    },
+    {
+        "pred_short_answer": "Answer: 21"
+    },
+    {
+        "pred_short_answer": "Answer: absorb menstrual fluid"
+    },
+    {
+        "pred_short_answer": "Answer: Michelangelo"
+    },
+    {
+        "pred_short_answer": "Answer: Tevye"
+    },
+    {
+        "pred_short_answer": "Answer: California"
+    },
+    {
+        "pred_short_answer": "Answer: Salt Lake City"
+    },
+    {
+        "pred_short_answer": "Answer: General Martín Perfecto de Cos"
+    },
+    {
+        "pred_short_answer": "Answer: Prince Henry the Navigator"
+    },
+    {
+        "pred_short_answer": "Answer: in the month of July"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: The 101ers"
+    },
+    {
+        "pred_short_answer": "Answer: 972.8 mb"
+    },
+    {
+        "pred_short_answer": "Answer: October 25, 2015"
+    },
+    {
+        "pred_short_answer": "Answer: Emily Mortimer"
+    },
+    {
+        "pred_short_answer": "Answer: 12"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Cyanea capillata"
+    },
+    {
+        "pred_short_answer": "Answer: Steve Nash"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: The Loyalist"
+    },
+    {
+        "pred_short_answer": "Answer: 24"
+    },
+    {
+        "pred_short_answer": "Answer: 1,200,000,000,000,000,000,00"
+    },
+    {
+        "pred_short_answer": "Answer: Lamborghini Aventador"
+    },
+    {
+        "pred_short_answer": "Answer: Ummah"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: 1931\n"
+    },
+    {
+        "pred_short_answer": "Answer: the President of the Republic of the Congo, Denis Sassou Nguesso"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: June 12, 2017\n"
+    },
+    {
+        "pred_short_answer": "Answer: computer crime prevention"
+    },
+    {
+        "pred_short_answer": "Answer: Kari Wahlgren"
+    },
+    {
+        "pred_short_answer": "Answer: Nashville, Tennessee"
+    },
+    {
+        "pred_short_answer": "Answer: the People's Republic of China"
+    },
+    {
+        "pred_short_answer": "Answer: 4"
+    },
+    {
+        "pred_short_answer": "Answer: William Bradford"
+    },
+    {
+        "pred_short_answer": "Answer: 45 minutes"
+    },
+    {
+        "pred_short_answer": "Answer: 7"
+    },
+    {
+        "pred_short_answer": "Answer: Abraham Lincoln"
+    },
+    {
+        "pred_short_answer": "Answer: 481"
+    },
+    {
+        "pred_short_answer": "Answer: in the 1970s"
+    },
+    {
+        "pred_short_answer": "Answer: The Judds"
+    },
+    {
+        "pred_short_answer": "Answer: International Date Line"
+    },
+    {
+        "pred_short_answer": "Answer: James McNeill Whistler"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Tress MacNeille"
+    },
+    {
+        "pred_short_answer": "Answer: July 16, 2001"
+    },
+    {
+        "pred_short_answer": "Answer: in the spiral arms of the Milky Way"
+    },
+    {
+        "pred_short_answer": "Answer: Paul Thomas Anderson"
+    },
+    {
+        "pred_short_answer": "Answer: 264"
+    },
+    {
+        "pred_short_answer": "Answer: British English"
+    },
+    {
+        "pred_short_answer": "Answer: stapedius"
+    },
+    {
+        "pred_short_answer": "Answer: the city of Pueblo, Colorado to the city of El Paso, Texas"
+    },
+    {
+        "pred_short_answer": "Answer: Exodus"
+    },
+    {
+        "pred_short_answer": "Answer: Robert Duvall"
+    },
+    {
+        "pred_short_answer": "Answer: Kelly"
+    },
+    {
+        "pred_short_answer": "Answer: empowerment"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: the name Huey\n"
+    },
+    {
+        "pred_short_answer": "Answer: Michael D. D'Antonio"
+    },
+    {
+        "pred_short_answer": "Answer: 1.3 billion"
+    },
+    {
+        "pred_short_answer": "Answer: David J. A. Smith"
+    },
+    {
+        "pred_short_answer": "Answer: 10 April 2017"
+    },
+    {
+        "pred_short_answer": "Answer: 2004"
+    },
+    {
+        "pred_short_answer": "Answer: Diastema"
+    },
+    {
+        "pred_short_answer": "Answer: 1982"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 31 October 1918"
+    },
+    {
+        "pred_short_answer": "Answer: yellow"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "<|im_start|>user\nAnswer: April 1"
+    },
+    {
+        "pred_short_answer": "Answer: 12th"
+    },
+    {
+        "pred_short_answer": "Answer: Ethiopia"
+    },
+    {
+        "pred_short_answer": "Answer: Matt Berry"
+    },
+    {
+        "pred_short_answer": "Answer: Janelle Monáe"
+    },
+    {
+        "pred_short_answer": "Answer: Michael D. G."
+    },
+    {
+        "pred_short_answer": "Answer: Alok\n\nQuestion: What is the name of the first person to be awarded the title of 'Nehru Award'?\nAnswer: A"
+    },
+    {
+        "pred_short_answer": "Answer: John H. Williams"
+    },
+    {
+        "pred_short_answer": "Answer: 18 months"
+    },
+    {
+        "pred_short_answer": "Answer: a man's journey to find out if a person can be linked to another person through six degrees of separation\n\nQuestion: What is the title of"
+    },
+    {
+        "pred_short_answer": "Answer: John B. Bingham"
+    },
+    {
+        "pred_short_answer": "Answer: Debra Monk"
+    },
+    {
+        "pred_short_answer": "Answer: Michael Jordan"
+    },
+    {
+        "pred_short_answer": "Answer: Aileen Quinn"
+    },
+    {
+        "pred_short_answer": "Answer: 1939"
+    },
+    {
+        "pred_short_answer": "Answer: Aimee D."
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: New Orleans Saints"
+    },
+    {
+        "pred_short_answer": "Answer: John Denver"
+    },
+    {
+        "pred_short_answer": "Answer: Lani Misalucha"
+    },
+    {
+        "pred_short_answer": "Answer: the Blue Ridge Mountains of North Carolina"
+    },
+    {
+        "pred_short_answer": "Answer: 2018"
+    },
+    {
+        "pred_short_answer": "Answer: GNU/Linux"
+    },
+    {
+        "pred_short_answer": "Answer: 1"
+    },
+    {
+        "pred_short_answer": "Answer: David Zayas"
+    },
+    {
+        "pred_short_answer": "Answer: 1997"
+    },
+    {
+        "pred_short_answer": "Answer: The Beatles"
+    },
+    {
+        "pred_short_answer": "Answer: Elizabeth Berkley"
+    },
+    {
+        "pred_short_answer": "Answer: the letter G stands for \"gathering\""
+    },
+    {
+        "pred_short_answer": "Answer: the French National Assembly"
+    },
+    {
+        "pred_short_answer": "Answer: Gokha\n"
+    },
+    {
+        "pred_short_answer": "Answer: his mother"
+    },
+    {
+        "pred_short_answer": "Answer: Nicaragua"
+    },
+    {
+        "pred_short_answer": "Answer: Liza Minnelli"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: A new license plate"
+    },
+    {
+        "pred_short_answer": "<|im_start|>user\nAnswer: 2016\n"
+    },
+    {
+        "pred_short_answer": "Answer: Bob Peterson"
+    },
+    {
+        "pred_short_answer": "Answer: 2016"
+    },
+    {
+        "pred_short_answer": "Answer: his wife"
+    },
+    {
+        "pred_short_answer": "Answer: 3"
+    },
+    {
+        "pred_short_answer": "Answer: chicken, lettuce, cheese, and a sauce"
+    },
+    {
+        "pred_short_answer": "Answer: Just Like That"
+    },
+    {
+        "pred_short_answer": "Answer: inverted, real, and diminished image"
+    },
+    {
+        "pred_short_answer": "Answer: Sachin Tendulkar"
+    },
+    {
+        "pred_short_answer": "Answer: 22 October 1914"
+    },
+    {
+        "pred_short_answer": "Answer: Mandy Moore"
+    },
+    {
+        "pred_short_answer": "Answer: tenant farmers"
+    },
+    {
+        "pred_short_answer": "Answer: Scotland"
+    },
+    {
+        "pred_short_answer": "Answer: to protect civil rights and liberties"
+    },
+    {
+        "pred_short_answer": "Answer: The Troggs"
+    },
+    {
+        "pred_short_answer": "Answer: the British Museum"
+    },
+    {
+        "pred_short_answer": "Answer: David Prowse"
+    },
+    {
+        "pred_short_answer": "Answer: James L. Hinds"
+    },
+    {
+        "pred_short_answer": "Answer: The 2015 season"
+    },
+    {
+        "pred_short_answer": "Answer: Devendra Fadnavis\n\nQuestion: What is the name of the Indian state that has a capital city named 'Hyderabad'?\n\nAnswer"
+    },
+    {
+        "pred_short_answer": "Answer: Aaron Lewis"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Debra Morgan"
+    },
+    {
+        "pred_short_answer": "Answer: John C. Breckinridge"
+    },
+    {
+        "pred_short_answer": "Answer: James Van Der Beek"
+    },
+    {
+        "pred_short_answer": "Answer: The Shirelles"
+    },
+    {
+        "pred_short_answer": "Answer: in the United Kingdom\nQuestion: what is the name of the 2017 film about a man who is trying to find a way"
+    },
+    {
+        "pred_short_answer": "Answer: 20"
+    },
+    {
+        "pred_short_answer": "Answer: the thalamus"
+    },
+    {
+        "pred_short_answer": "Answer: November 20, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Senegal"
+    },
+    {
+        "pred_short_answer": "Answer: for over 3,800 years"
+    },
+    {
+        "pred_short_answer": "Answer: thylakoid membrane"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: community-based support\n\nQuestion: What is the name of the model that emphasizes the importance of the community in helping people to recover from mental illness?\n"
+    },
+    {
+        "pred_short_answer": "Answer: Indian Business Board"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: January 25, 2011"
+    },
+    {
+        "pred_short_answer": "Answer: Jammu and Kashmir"
+    },
+    {
+        "pred_short_answer": "Answer: the Northwest Territories"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Rajendra Prasad"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Corey"
+    },
+    {
+        "pred_short_answer": "Answer: the root pressure"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: 1947\n"
+    },
+    {
+        "pred_short_answer": "Answer: House of Representatives"
+    },
+    {
+        "pred_short_answer": "Answer: Robert L. Smith"
+    },
+    {
+        "pred_short_answer": "Answer: Mark Ruffalo"
+    },
+    {
+        "pred_short_answer": "Answer: the day she's born\n\nQuestion: what is the name of the cylon who is the daughter of the cylon commander\nAnswer: A"
+    },
+    {
+        "pred_short_answer": "Answer: Central Park"
+    },
+    {
+        "pred_short_answer": "Answer: John Greenleaf Whittier"
+    },
+    {
+        "pred_short_answer": "Answer: Mumbai"
+    },
+    {
+        "pred_short_answer": "Answer: The Louvre Museum in Paris"
+    },
+    {
+        "pred_short_answer": "<|im_start|>0\nAnswer: primary structure"
+    },
+    {
+        "pred_short_answer": "Answer: 1999"
+    },
+    {
+        "pred_short_answer": "Answer: \"Party in the U.S.A.\""
+    },
+    {
+        "pred_short_answer": "Answer: 232"
+    },
+    {
+        "pred_short_answer": "Answer: Saint-Malo Cathedral\n"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: 1985"
+    },
+    {
+        "pred_short_answer": "Answer: Jason Lee"
+    },
+    {
+        "pred_short_answer": "Answer: George C. Scott"
+    },
+    {
+        "pred_short_answer": "Answer: Richard Armitage"
+    },
+    {
+        "pred_short_answer": "Answer: at the start of the game"
+    },
+    {
+        "pred_short_answer": "Answer: Old Trafford"
+    },
+    {
+        "pred_short_answer": "Answer: March 12, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Shania Twain"
+    },
+    {
+        "pred_short_answer": "Answer: 1100111111111111111111111111"
+    },
+    {
+        "pred_short_answer": "Answer: 14th century"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: October 12, 1983"
+    },
+    {
+        "pred_short_answer": "Answer: Transform"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Mississippi River"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "<|im_start|>2017-03-14 08:24:51\nAnswer: City 17\n"
+    },
+    {
+        "pred_short_answer": "Answer: The Holiday (film)"
+    },
+    {
+        "pred_short_answer": "Answer: The Four Seasons"
+    },
+    {
+        "pred_short_answer": "Answer: M. M. Bowerman"
+    },
+    {
+        "pred_short_answer": "Answer: October 12, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Mormon Jack"
+    },
+    {
+        "pred_short_answer": "Answer: the bilby"
+    },
+    {
+        "pred_short_answer": "Answer: −89.2°C\n\nQuestion: what is the coldest temperature ever recorded on earth\nAnswer: −89.2°C\n\n"
+    },
+    {
+        "pred_short_answer": "Answer: Institute of Chartered Accountants of India (ICAI)"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Hakainde Hichilema\n\nQuestion: What is the name of the 13th president of the United States?\nAnswer: James"
+    },
+    {
+        "pred_short_answer": "Answer: Another World with My Smartphone"
+    },
+    {
+        "pred_short_answer": "Answer: United States"
+    },
+    {
+        "pred_short_answer": "Answer: Dan K. K. K. K. K. K. K. K. K. K. K. K. K. K."
+    },
+    {
+        "pred_short_answer": "Answer: 1985"
+    },
+    {
+        "pred_short_answer": "Answer: latitude"
+    },
+    {
+        "pred_short_answer": "Answer: Udayana\n\nQuestion: What is the name of the king of Kalinga who was a contemporary of the Mauryan emperor Ashoka"
+    },
+    {
+        "pred_short_answer": "Answer: Rafael Nadal"
+    },
+    {
+        "pred_short_answer": "Answer: Vienna\n\nQuestion: How many people were killed in the 2013 Boston Marathon bombing?\n\nAnswer: 3\n\nQuestion: What was"
+    },
+    {
+        "pred_short_answer": "Answer: The Indian Railways' fastest train is the Tejas Express\n\nQuestion: What is the average speed of a train?\nAnswer: 60"
+    },
+    {
+        "pred_short_answer": "Answer: the Baseball Writers' Association of America\nQuestion: What is the average time to complete a 2000 mile journey by car?\nAnswer"
+    },
+    {
+        "pred_short_answer": "Answer: Christopher Plummer"
+    },
+    {
+        "pred_short_answer": "Answer: 1993"
+    },
+    {
+        "pred_short_answer": "Answer: Christopher Columbus"
+    },
+    {
+        "pred_short_answer": "Answer: Robert C. White"
+    },
+    {
+        "pred_short_answer": "Answer: Ryan Gosling\n"
+    },
+    {
+        "pred_short_answer": "Answer: January 23, 2018"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: June 19, 1975"
+    },
+    {
+        "pred_short_answer": "Answer: the NFL"
+    },
+    {
+        "pred_short_answer": "Answer: in 1961\n\nQuestion: when did the Berlin Wall go up\nAnswer: in 1961\n\nQuestion: What"
+    },
+    {
+        "pred_short_answer": "Answer: Sir Alex Ferguson"
+    },
+    {
+        "pred_short_answer": "Answer: Tiber River"
+    },
+    {
+        "pred_short_answer": "Answer: nothing"
+    },
+    {
+        "pred_short_answer": "Answer: Daffy Duck"
+    },
+    {
+        "pred_short_answer": "Answer: France"
+    },
+    {
+        "pred_short_answer": "Answer: Mike Trout"
+    },
+    {
+        "pred_short_answer": "Answer: 5 feet 7 inches"
+    },
+    {
+        "pred_short_answer": "Answer: The Atlantic Ocean"
+    },
+    {
+        "pred_short_answer": "Answer: Sir Syed Ahmed Khan"
+    },
+    {
+        "pred_short_answer": "Answer: Dome of the Rock"
+    },
+    {
+        "pred_short_answer": "Answer: 10 May 1940"
+    },
+    {
+        "pred_short_answer": "Answer: William Hazlitt"
+    },
+    {
+        "pred_short_answer": "Answer: Francisco Pizarro\n\nQuestion: what is the name of the new world's first city that was established by the Spanish in the Americas\n"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: Santa Claus"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: Haliaeetus\n"
+    },
+    {
+        "pred_short_answer": "Answer: 2010"
+    },
+    {
+        "pred_short_answer": "Answer: Transjordan"
+    },
+    {
+        "pred_short_answer": "Answer: J. D. Dillard"
+    },
+    {
+        "pred_short_answer": "Answer: John Crowley"
+    },
+    {
+        "pred_short_answer": "Answer: parthenogenesis\n\nQuestion: What is the difference between asexual and sexual reproduction in terms of genetic variation?\nAnswer: Asexual reproduction produces offspring"
+    },
+    {
+        "pred_short_answer": "Answer: Don Henley"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: John Lothrop"
+    },
+    {
+        "pred_short_answer": "Answer: Sir Ebenezer Howard"
+    },
+    {
+        "pred_short_answer": "Answer: Madison, Wisconsin, United States\n\nQuestion: what is the name of the city where the university of wisconsin madison is located\nAnswer:"
+    },
+    {
+        "pred_short_answer": "Answer: Mexico City"
+    },
+    {
+        "pred_short_answer": "Answer: Huddersfield"
+    },
+    {
+        "pred_short_answer": "<|im_start|>user\nAnswer: four\n"
+    },
+    {
+        "pred_short_answer": "Answer: Carol Channing"
+    },
+    {
+        "pred_short_answer": "Answer: John Williams"
+    },
+    {
+        "pred_short_answer": "Answer: Canada\n\nQuestion: what is the highest average income in north america\nAnswer: Canada\n\nQuestion: which country in North America has the highest average"
+    },
+    {
+        "pred_short_answer": "Answer: the vines of the bayou"
+    },
+    {
+        "pred_short_answer": "Answer: in the roots of the plant\n"
+    },
+    {
+        "pred_short_answer": "Answer: November 23, 2014"
+    },
+    {
+        "pred_short_answer": "Answer: trunk"
+    },
+    {
+        "pred_short_answer": "Answer: Michael D. Garry"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Assistant: three"
+    },
+    {
+        "pred_short_answer": "Answer: lioness"
+    },
+    {
+        "pred_short_answer": ""
+    },
+    {
+        "pred_short_answer": "Answer: 2"
+    },
+    {
+        "pred_short_answer": "Answer: Eyjafjallajökull\n\nQuestion: What is the name of the volcano in Iceland that erupted in 2010?\n"
+    },
+    {
+        "pred_short_answer": "<|im_start|>Answer: in the Philippines"
+    },
+    {
+        "pred_short_answer": "Answer: Keri Russell"
+    },
+    {
+        "pred_short_answer": "Answer: 120 members"
+    }
+]

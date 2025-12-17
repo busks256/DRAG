@@ -1,0 +1,3002 @@
+[
+    {
+        "pred_short_answer": "Answer: Apollo 17"
+    },
+    {
+        "pred_short_answer": "Answer: Burt Bacharach"
+    },
+    {
+        "pred_short_answer": "Answer: three"
+    },
+    {
+        "pred_short_answer": "Answer: Super Bowl LII"
+    },
+    {
+        "pred_short_answer": "Answer: South Carolina"
+    },
+    {
+        "pred_short_answer": "Answer: about 150,000 years ago"
+    },
+    {
+        "pred_short_answer": "Answer: Justin Bieber"
+    },
+    {
+        "pred_short_answer": "Answer: James I"
+    },
+    {
+        "pred_short_answer": "Answer: a modification for the game"
+    },
+    {
+        "pred_short_answer": "Answer: up to 54 megabits per second"
+    },
+    {
+        "pred_short_answer": "Answer: Madhya Pradesh"
+    },
+    {
+        "pred_short_answer": "Answer: The Four Seasons"
+    },
+    {
+        "pred_short_answer": "Answer: Scottish"
+    },
+    {
+        "pred_short_answer": "Answer: Michael Alan Lieberman"
+    },
+    {
+        "pred_short_answer": "Answer: Jason Weaver"
+    },
+    {
+        "pred_short_answer": "Answer: Linda Dano"
+    },
+    {
+        "pred_short_answer": "Answer: The Oath of Allegiance"
+    },
+    {
+        "pred_short_answer": "Answer: David Prowse"
+    },
+    {
+        "pred_short_answer": "Answer: Sarah"
+    },
+    {
+        "pred_short_answer": "Answer: at least 18 years old"
+    },
+    {
+        "pred_short_answer": "Answer: November 27, 1996"
+    },
+    {
+        "pred_short_answer": "Answer: Toronto"
+    },
+    {
+        "pred_short_answer": "Answer: seven"
+    },
+    {
+        "pred_short_answer": "Answer: approximately 290"
+    },
+    {
+        "pred_short_answer": "Answer: Jacob Tremblay"
+    },
+    {
+        "pred_short_answer": "Answer: December 1901"
+    },
+    {
+        "pred_short_answer": "Answer: James Wolk"
+    },
+    {
+        "pred_short_answer": "Answer: Jennifer Schwalbach"
+    },
+    {
+        "pred_short_answer": "Answer: Heath Ledger"
+    },
+    {
+        "pred_short_answer": "Answer: December 8, 1985"
+    },
+    {
+        "pred_short_answer": "Answer: March 12, 2008"
+    },
+    {
+        "pred_short_answer": "Answer: Marilyn Monroe"
+    },
+    {
+        "pred_short_answer": "Answer: Dave Gahan"
+    },
+    {
+        "pred_short_answer": "Answer: in the slaughterhouse"
+    },
+    {
+        "pred_short_answer": "Answer: Joseph M. Juran"
+    },
+    {
+        "pred_short_answer": "Answer: Paul Williams"
+    },
+    {
+        "pred_short_answer": "Answer: December 7, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: October 24, 2006"
+    },
+    {
+        "pred_short_answer": "Answer: Fifty Shades Freed"
+    },
+    {
+        "pred_short_answer": "Answer: The Supreme Court"
+    },
+    {
+        "pred_short_answer": "Answer: Master Chief Petty Officer"
+    },
+    {
+        "pred_short_answer": "Answer: Al-Kindi"
+    },
+    {
+        "pred_short_answer": "Answer: Guy Boucher"
+    },
+    {
+        "pred_short_answer": "Answer: Season 4"
+    },
+    {
+        "pred_short_answer": "Answer: January 1992"
+    },
+    {
+        "pred_short_answer": "Answer: red, white, and blue"
+    },
+    {
+        "pred_short_answer": "Answer: Luke 11:2"
+    },
+    {
+        "pred_short_answer": "Answer: the 1955 season"
+    },
+    {
+        "pred_short_answer": "Answer: Exodus 20"
+    },
+    {
+        "pred_short_answer": "Answer: Italy"
+    },
+    {
+        "pred_short_answer": "Answer: faithful one"
+    },
+    {
+        "pred_short_answer": "Answer: aorta"
+    },
+    {
+        "pred_short_answer": "Answer: Michael J. Fox"
+    },
+    {
+        "pred_short_answer": "Answer: Laura"
+    },
+    {
+        "pred_short_answer": "Answer: rotating"
+    },
+    {
+        "pred_short_answer": "Answer: rib"
+    },
+    {
+        "pred_short_answer": "Answer: The Rascals"
+    },
+    {
+        "pred_short_answer": "Answer: James Brown"
+    },
+    {
+        "pred_short_answer": "Answer: North America"
+    },
+    {
+        "pred_short_answer": "Answer: John Prine"
+    },
+    {
+        "pred_short_answer": "Answer: Spike"
+    },
+    {
+        "pred_short_answer": "Answer: Arvind Kejriwal"
+    },
+    {
+        "pred_short_answer": "Answer: Newark Liberty International Airport"
+    },
+    {
+        "pred_short_answer": "Answer: Los Angeles, California"
+    },
+    {
+        "pred_short_answer": "Assistant: Rachel"
+    },
+    {
+        "pred_short_answer": "Answer: in 2000"
+    },
+    {
+        "pred_short_answer": "Answer: December 1971"
+    },
+    {
+        "pred_short_answer": "Answer: Fix You"
+    },
+    {
+        "pred_short_answer": "Answer: degrees"
+    },
+    {
+        "pred_short_answer": "Answer: the antimicrobial effect"
+    },
+    {
+        "pred_short_answer": "Answer: the Cair Paravel"
+    },
+    {
+        "pred_short_answer": "Answer: four"
+    },
+    {
+        "pred_short_answer": "Answer: at sign"
+    },
+    {
+        "pred_short_answer": "Answer: KRS-One"
+    },
+    {
+        "pred_short_answer": "Answer: September 2009"
+    },
+    {
+        "pred_short_answer": "Answer: Gwendoline Christie"
+    },
+    {
+        "pred_short_answer": "Answer: David Gates"
+    },
+    {
+        "pred_short_answer": "Answer: October 1996"
+    },
+    {
+        "pred_short_answer": "Answer: Bartolomeu Dias"
+    },
+    {
+        "pred_short_answer": "Answer: Emperor Yongle"
+    },
+    {
+        "pred_short_answer": "Answer: The Chiffons"
+    },
+    {
+        "pred_short_answer": "Answer: the President of France"
+    },
+    {
+        "pred_short_answer": "Answer: eight"
+    },
+    {
+        "pred_short_answer": "Answer: Patrick Chinamano"
+    },
+    {
+        "pred_short_answer": "Answer: economic stagnation"
+    },
+    {
+        "pred_short_answer": "Answer: in 1951"
+    },
+    {
+        "pred_short_answer": "Answer: six"
+    },
+    {
+        "pred_short_answer": "Answer: Steven Robertson"
+    },
+    {
+        "pred_short_answer": "Answer: March 1764"
+    },
+    {
+        "pred_short_answer": "Answer: Lady Gaga"
+    },
+    {
+        "pred_short_answer": "Answer: Ford Bronco"
+    },
+    {
+        "pred_short_answer": "Answer: €7.50"
+    },
+    {
+        "pred_short_answer": "Answer: initiation phase"
+    },
+    {
+        "pred_short_answer": "Answer: November 2012"
+    },
+    {
+        "pred_short_answer": "Answer: San Agustin Church"
+    },
+    {
+        "pred_short_answer": "Answer: in the lower leg"
+    },
+    {
+        "pred_short_answer": "Answer: John Forsythe"
+    },
+    {
+        "pred_short_answer": "Answer: The Archies"
+    },
+    {
+        "pred_short_answer": "Answer: Nordic combined"
+    },
+    {
+        "pred_short_answer": "Answer: Hunter Tylo"
+    },
+    {
+        "pred_short_answer": "Answer: The New England Patriots"
+    },
+    {
+        "pred_short_answer": "Answer: at least 25 years"
+    },
+    {
+        "pred_short_answer": "Answer: Jerry Rice"
+    },
+    {
+        "pred_short_answer": "Answer: September 2018"
+    },
+    {
+        "pred_short_answer": "Answer: nomadic tribes"
+    },
+    {
+        "pred_short_answer": "Answer: Spanish"
+    },
+    {
+        "pred_short_answer": "Answer: the Patriarch of Jerusalem"
+    },
+    {
+        "pred_short_answer": "Answer: June 19, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: five"
+    },
+    {
+        "pred_short_answer": "Answer: $175 million"
+    },
+    {
+        "pred_short_answer": "Answer: about 84.79 degrees"
+    },
+    {
+        "pred_short_answer": "Answer: about 17.5%"
+    },
+    {
+        "pred_short_answer": "Answer: Hermia"
+    },
+    {
+        "pred_short_answer": "Answer: September 28, 2000"
+    },
+    {
+        "pred_short_answer": "Answer: on 26 and 27 March 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Ernest Rutherford"
+    },
+    {
+        "pred_short_answer": "Answer: a bank"
+    },
+    {
+        "pred_short_answer": "Answer: Elena Gilbert"
+    },
+    {
+        "pred_short_answer": "Answer: carbon copy"
+    },
+    {
+        "pred_short_answer": "Answer: Isaac (played by Nathaniel Parker)"
+    },
+    {
+        "pred_short_answer": "Answer: November 2"
+    },
+    {
+        "pred_short_answer": "Answer: every four years"
+    },
+    {
+        "pred_short_answer": "Answer: Croton Aqueduct"
+    },
+    {
+        "pred_short_answer": "Answer: Orlando, Florida"
+    },
+    {
+        "pred_short_answer": "Answer: the late 1920s"
+    },
+    {
+        "pred_short_answer": "Answer: three"
+    },
+    {
+        "pred_short_answer": "Answer: Eric Roberts"
+    },
+    {
+        "pred_short_answer": "Answer: Jason Lee"
+    },
+    {
+        "pred_short_answer": "Answer: twenty-one"
+    },
+    {
+        "pred_short_answer": "Answer: Patrick J. Leahy"
+    },
+    {
+        "pred_short_answer": "Answer: about 1%"
+    },
+    {
+        "pred_short_answer": "Answer: command economy"
+    },
+    {
+        "pred_short_answer": "Answer: nine"
+    },
+    {
+        "pred_short_answer": "Answer: September 1, 1939"
+    },
+    {
+        "pred_short_answer": "Answer: the 1990s"
+    },
+    {
+        "pred_short_answer": "Answer: August 28, 2012"
+    },
+    {
+        "pred_short_answer": "Answer: six feet, four inches"
+    },
+    {
+        "pred_short_answer": "Answer: Little Mix"
+    },
+    {
+        "pred_short_answer": "Answer: Guillaume André Laennec"
+    },
+    {
+        "pred_short_answer": "Answer: Chris Elliott"
+    },
+    {
+        "pred_short_answer": "Answer: Deuteronomy 4:4-8"
+    },
+    {
+        "pred_short_answer": "Answer: Republicans"
+    },
+    {
+        "pred_short_answer": "Answer: November 19, 2016"
+    },
+    {
+        "pred_short_answer": "Answer: November 23, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Real Madrid"
+    },
+    {
+        "pred_short_answer": "Answer: Jennifer"
+    },
+    {
+        "pred_short_answer": "Answer: John Stephenson"
+    },
+    {
+        "pred_short_answer": "Answer: April 13, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Charles Ammi Cutter"
+    },
+    {
+        "pred_short_answer": "Answer: Rudyard Kipling"
+    },
+    {
+        "pred_short_answer": "Answer: The One Where We Get Together"
+    },
+    {
+        "pred_short_answer": "Answer: Germany"
+    },
+    {
+        "pred_short_answer": "Answer: Lauren Sarah Stamann"
+    },
+    {
+        "pred_short_answer": "Answer: Chuck Noland"
+    },
+    {
+        "pred_short_answer": "Answer: V8"
+    },
+    {
+        "pred_short_answer": "Answer: March 2005"
+    },
+    {
+        "pred_short_answer": "Answer: September 1938"
+    },
+    {
+        "pred_short_answer": "Answer: October 1881"
+    },
+    {
+        "pred_short_answer": "Answer: Kaa"
+    },
+    {
+        "pred_short_answer": "Answer: small intestine"
+    },
+    {
+        "pred_short_answer": "Answer: Spice Girls"
+    },
+    {
+        "pred_short_answer": "Answer: environmental exposures"
+    },
+    {
+        "pred_short_answer": "Answer: Yuzuru Hanyu"
+    },
+    {
+        "pred_short_answer": "Answer: Robert Sean Leonard"
+    },
+    {
+        "pred_short_answer": "Answer: in Guwahati"
+    },
+    {
+        "pred_short_answer": "Answer: Lily James"
+    },
+    {
+        "pred_short_answer": "Answer: April 20, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: November 20, 1989"
+    },
+    {
+        "pred_short_answer": "Answer: Pyotr Ilyich Tchaikovsky"
+    },
+    {
+        "pred_short_answer": "Answer: Database"
+    },
+    {
+        "pred_short_answer": "Answer: the 17th century"
+    },
+    {
+        "pred_short_answer": "Answer: around 1475"
+    },
+    {
+        "pred_short_answer": "Answer: Jesse Spencer"
+    },
+    {
+        "pred_short_answer": "Answer: Bob Dylan"
+    },
+    {
+        "pred_short_answer": "Answer: August 24, 2000"
+    },
+    {
+        "pred_short_answer": "Answer: Jon Voight"
+    },
+    {
+        "pred_short_answer": "Answer: Jane Asher"
+    },
+    {
+        "pred_short_answer": "Answer: wool"
+    },
+    {
+        "pred_short_answer": "Answer: eight"
+    },
+    {
+        "pred_short_answer": "Answer: the old graveyard"
+    },
+    {
+        "pred_short_answer": "Answer: Willem-Alexander"
+    },
+    {
+        "pred_short_answer": "Answer: beneath the liver"
+    },
+    {
+        "pred_short_answer": "Answer: around 3,000"
+    },
+    {
+        "pred_short_answer": "Answer: Gwalior"
+    },
+    {
+        "pred_short_answer": "Answer: Johnny Mercer"
+    },
+    {
+        "pred_short_answer": "Answer: uranium"
+    },
+    {
+        "pred_short_answer": "Answer: The Lightning Thief"
+    },
+    {
+        "pred_short_answer": "Answer: David Carradine"
+    },
+    {
+        "pred_short_answer": "Answer: Proposition 114"
+    },
+    {
+        "pred_short_answer": "Answer: Taryn Manning"
+    },
+    {
+        "pred_short_answer": "Answer: the band Chicago"
+    },
+    {
+        "pred_short_answer": "Answer: President of the United States"
+    },
+    {
+        "pred_short_answer": "Answer: Kevin Johnson"
+    },
+    {
+        "pred_short_answer": "Answer: in the early morning hours"
+    },
+    {
+        "pred_short_answer": "Answer: Trace Adkins"
+    },
+    {
+        "pred_short_answer": "Answer: year 5778"
+    },
+    {
+        "pred_short_answer": "Answer: J. Jayalalithaa"
+    },
+    {
+        "pred_short_answer": "Answer: to support candidates"
+    },
+    {
+        "pred_short_answer": "Answer: Instagram's own account"
+    },
+    {
+        "pred_short_answer": "Answer: presidential republic"
+    },
+    {
+        "pred_short_answer": "Answer: alveoli in the lungs"
+    },
+    {
+        "pred_short_answer": "Answer: Ram Nath Kovind"
+    },
+    {
+        "pred_short_answer": "Answer: Commander in Chief"
+    },
+    {
+        "pred_short_answer": "Answer: November 17, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: fifth grade"
+    },
+    {
+        "pred_short_answer": "Answer: William J. Ashdown"
+    },
+    {
+        "pred_short_answer": "Answer: March 13, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: CBS"
+    },
+    {
+        "pred_short_answer": "Answer: a 12-star bald eagle"
+    },
+    {
+        "pred_short_answer": "Answer: Robert Parish"
+    },
+    {
+        "pred_short_answer": "Answer: Andrew Johnson"
+    },
+    {
+        "pred_short_answer": "Answer: capillary action"
+    },
+    {
+        "pred_short_answer": "Answer: November 15, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: eight"
+    },
+    {
+        "pred_short_answer": "Answer: ten"
+    },
+    {
+        "pred_short_answer": "Answer: September 2018"
+    },
+    {
+        "pred_short_answer": "Answer: modulated"
+    },
+    {
+        "pred_short_answer": "Answer: German athlete Karl Schrader"
+    },
+    {
+        "pred_short_answer": "Answer: The Charlie Daniels Band"
+    },
+    {
+        "pred_short_answer": "Answer: May 24, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: John Carroll Lynch"
+    },
+    {
+        "pred_short_answer": "Answer: dermis"
+    },
+    {
+        "pred_short_answer": "Answer: Confederate victory"
+    },
+    {
+        "pred_short_answer": "Answer: Canada"
+    },
+    {
+        "pred_short_answer": "Answer: Billie Jean King"
+    },
+    {
+        "pred_short_answer": "Answer: the United States Supreme Court"
+    },
+    {
+        "pred_short_answer": "Answer: optic chiasm"
+    },
+    {
+        "pred_short_answer": "Answer: April 1, 1833"
+    },
+    {
+        "pred_short_answer": "Answer: kryptonium"
+    },
+    {
+        "pred_short_answer": "Answer: Bart Millard"
+    },
+    {
+        "pred_short_answer": "Answer: lead dioxide"
+    },
+    {
+        "pred_short_answer": "Answer: Trivium"
+    },
+    {
+        "pred_short_answer": "Answer: Rachel House"
+    },
+    {
+        "pred_short_answer": "Answer: John von Neumann"
+    },
+    {
+        "pred_short_answer": "Answer: Chloe"
+    },
+    {
+        "pred_short_answer": "Answer: the police"
+    },
+    {
+        "pred_short_answer": "Answer: in the 19th century"
+    },
+    {
+        "pred_short_answer": "Answer: Pearl Harbor attack"
+    },
+    {
+        "pred_short_answer": "Answer: born May 26, 1972"
+    },
+    {
+        "pred_short_answer": "Answer: Baron de Montesquieu"
+    },
+    {
+        "pred_short_answer": "Answer: season 3"
+    },
+    {
+        "pred_short_answer": "Answer: a 1.8 L engine"
+    },
+    {
+        "pred_short_answer": "Answer: Patrick Beverley"
+    },
+    {
+        "pred_short_answer": "Answer: about 26,000 years"
+    },
+    {
+        "pred_short_answer": "Answer: Scotland"
+    },
+    {
+        "pred_short_answer": "Answer: December 1887"
+    },
+    {
+        "pred_short_answer": "Answer: John Legend"
+    },
+    {
+        "pred_short_answer": "Answer: Lindsay Duncan"
+    },
+    {
+        "pred_short_answer": "Answer: India"
+    },
+    {
+        "pred_short_answer": "Answer: Afghanistan"
+    },
+    {
+        "pred_short_answer": "Answer: David Ogden Stiers"
+    },
+    {
+        "pred_short_answer": "Answer: the War of 1812"
+    },
+    {
+        "pred_short_answer": "Answer: Peyton Manning"
+    },
+    {
+        "pred_short_answer": "Answer: Princeton"
+    },
+    {
+        "pred_short_answer": "Answer: Hindi"
+    },
+    {
+        "pred_short_answer": "Answer: Shenzi"
+    },
+    {
+        "pred_short_answer": "Answer: the Festival of the Dragon Boat"
+    },
+    {
+        "pred_short_answer": "Answer: Hejaz"
+    },
+    {
+        "pred_short_answer": "Answer: protects the heart"
+    },
+    {
+        "pred_short_answer": "Answer: The Promise"
+    },
+    {
+        "pred_short_answer": "Answer: George Sanders"
+    },
+    {
+        "pred_short_answer": "Answer: Gene Autry"
+    },
+    {
+        "pred_short_answer": "Answer: ammonia"
+    },
+    {
+        "pred_short_answer": "Answer: Atlanta, Georgia"
+    },
+    {
+        "pred_short_answer": "Answer: Lord Irwin"
+    },
+    {
+        "pred_short_answer": "Answer: Category 4"
+    },
+    {
+        "pred_short_answer": "Answer: in 1994"
+    },
+    {
+        "pred_short_answer": "Answer: nearby stars"
+    },
+    {
+        "pred_short_answer": "Answer: the 1980 Summer Olympics"
+    },
+    {
+        "pred_short_answer": "Answer: IV"
+    },
+    {
+        "pred_short_answer": "Answer: February 7, 2010"
+    },
+    {
+        "pred_short_answer": "Answer: the Philadelphia Eagles"
+    },
+    {
+        "pred_short_answer": "Answer: September 2004"
+    },
+    {
+        "pred_short_answer": "Answer: Viktor Kutuzov"
+    },
+    {
+        "pred_short_answer": "Answer: Balin"
+    },
+    {
+        "pred_short_answer": "Answer: August 15, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Sana Saeed"
+    },
+    {
+        "pred_short_answer": "Answer: the stage"
+    },
+    {
+        "pred_short_answer": "Answer: season five"
+    },
+    {
+        "pred_short_answer": "Answer: The Ritz-Carlton"
+    },
+    {
+        "pred_short_answer": "Answer: June 2016"
+    },
+    {
+        "pred_short_answer": "Answer: The Legend of Heroes: Trails in the Sky 3rd"
+    },
+    {
+        "pred_short_answer": "Answer: March 2005"
+    },
+    {
+        "pred_short_answer": "Answer: Maithripala Sirisena"
+    },
+    {
+        "pred_short_answer": "Answer: acetate ion"
+    },
+    {
+        "pred_short_answer": "Answer: Imperial Chinese government"
+    },
+    {
+        "pred_short_answer": "Answer: Germany"
+    },
+    {
+        "pred_short_answer": "Answer: in 1966"
+    },
+    {
+        "pred_short_answer": "Answer: Chernobyl"
+    },
+    {
+        "pred_short_answer": "Answer: Ray Charles"
+    },
+    {
+        "pred_short_answer": "Answer: more than 100"
+    },
+    {
+        "pred_short_answer": "Answer: Corinth, Greece"
+    },
+    {
+        "pred_short_answer": "Answer: Billy Ocean"
+    },
+    {
+        "pred_short_answer": "Answer: Asa Butterfield"
+    },
+    {
+        "pred_short_answer": "Answer: The Beatles"
+    },
+    {
+        "pred_short_answer": "Answer: adenine"
+    },
+    {
+        "pred_short_answer": "Answer: column 1"
+    },
+    {
+        "pred_short_answer": "Answer: Montgomery"
+    },
+    {
+        "pred_short_answer": "Answer: the 2018 Winter Olympics"
+    },
+    {
+        "pred_short_answer": "Answer: Daredevil"
+    },
+    {
+        "pred_short_answer": "Answer: Atlanta Falcons"
+    },
+    {
+        "pred_short_answer": "Answer: Alexander Hamilton"
+    },
+    {
+        "pred_short_answer": "Answer: the enamel"
+    },
+    {
+        "pred_short_answer": "Answer: c. 1599"
+    },
+    {
+        "pred_short_answer": "Answer: May 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Iltutmish"
+    },
+    {
+        "pred_short_answer": "Answer: Lt. Col. John E. Tinker"
+    },
+    {
+        "pred_short_answer": "Answer: the 1920s"
+    },
+    {
+        "pred_short_answer": "Answer: The Last Season"
+    },
+    {
+        "pred_short_answer": "Answer: October 11, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: cell membranes"
+    },
+    {
+        "pred_short_answer": "Answer: Brian O'Driscoll"
+    },
+    {
+        "pred_short_answer": "Answer: Ken Singleton"
+    },
+    {
+        "pred_short_answer": "Answer: February 6, 2011"
+    },
+    {
+        "pred_short_answer": "Answer: October 10, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: June 1, 1985"
+    },
+    {
+        "pred_short_answer": "Answer: January 19, 1990"
+    },
+    {
+        "pred_short_answer": "Answer: September 29, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: April 1, 1976"
+    },
+    {
+        "pred_short_answer": "Answer: October 10, 2017"
+    },
+    {
+        "pred_short_answer": "- John Cena"
+    },
+    {
+        "pred_short_answer": "Answer: Jar Jar Binks"
+    },
+    {
+        "pred_short_answer": "Answer: Heavy Pattern"
+    },
+    {
+        "pred_short_answer": "Answer: David Sullivan"
+    },
+    {
+        "pred_short_answer": "Answer: Richard Stallman"
+    },
+    {
+        "pred_short_answer": "Answer: Daniel Alexander"
+    },
+    {
+        "pred_short_answer": "Answer: the 1979–80 season"
+    },
+    {
+        "pred_short_answer": "Answer: amitriptyline"
+    },
+    {
+        "pred_short_answer": "Answer: May 1876"
+    },
+    {
+        "pred_short_answer": "Answer: Jonathan Breck"
+    },
+    {
+        "pred_short_answer": "Answer: John Francis Daley"
+    },
+    {
+        "pred_short_answer": "Answer: Jessica Lange"
+    },
+    {
+        "pred_short_answer": "Answer: the Mediterranean Sea"
+    },
+    {
+        "pred_short_answer": "Answer: Super Saiyan 3"
+    },
+    {
+        "pred_short_answer": "Answer: South Asia"
+    },
+    {
+        "pred_short_answer": "Answer: May 1954"
+    },
+    {
+        "pred_short_answer": "Answer: Colin Firth"
+    },
+    {
+        "pred_short_answer": "Answer: c. 1592–1594"
+    },
+    {
+        "pred_short_answer": "Answer: over 70 languages"
+    },
+    {
+        "pred_short_answer": "Answer: January 12, 2003"
+    },
+    {
+        "pred_short_answer": "Answer: Kyla Pratt"
+    },
+    {
+        "pred_short_answer": "Answer: nuclear transfer"
+    },
+    {
+        "pred_short_answer": "Answer: June 17, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Domhnall Gleeson"
+    },
+    {
+        "pred_short_answer": "Answer: John Ross"
+    },
+    {
+        "pred_short_answer": "Answer: February 2016"
+    },
+    {
+        "pred_short_answer": "Answer: Michael Raymond-James"
+    },
+    {
+        "pred_short_answer": "Answer: James Patrick Dacey"
+    },
+    {
+        "pred_short_answer": "Answer: Dead Man's Chest"
+    },
+    {
+        "pred_short_answer": "Answer: the first man"
+    },
+    {
+        "pred_short_answer": "Answer: Cruel Sweetness"
+    },
+    {
+        "pred_short_answer": "Answer: Matthias Schleiden"
+    },
+    {
+        "pred_short_answer": "Answer: Derek Redmond"
+    },
+    {
+        "pred_short_answer": "Answer: Christian Lacroix"
+    },
+    {
+        "pred_short_answer": "Answer: cash flows from financing activities"
+    },
+    {
+        "pred_short_answer": "Answer: July 4, 1960"
+    },
+    {
+        "pred_short_answer": "Answer: Kurdish"
+    },
+    {
+        "pred_short_answer": "Answer: crust"
+    },
+    {
+        "pred_short_answer": "Answer: P1,000 (Philippine peso)"
+    },
+    {
+        "pred_short_answer": "Answer: Justice Wargrave"
+    },
+    {
+        "pred_short_answer": "Answer: August 5, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: George V"
+    },
+    {
+        "pred_short_answer": "Answer: the Women's Royal Voluntary Services"
+    },
+    {
+        "pred_short_answer": "Answer: fifth"
+    },
+    {
+        "pred_short_answer": "Answer: Saint Teresa of Calcutta"
+    },
+    {
+        "pred_short_answer": "Answer: the Senate"
+    },
+    {
+        "pred_short_answer": "Answer: ShakeAlert"
+    },
+    {
+        "pred_short_answer": "Answer: December 1972"
+    },
+    {
+        "pred_short_answer": "Answer: over 6,000"
+    },
+    {
+        "pred_short_answer": "Answer: during the first trimester"
+    },
+    {
+        "pred_short_answer": "Answer: July 1, 1930"
+    },
+    {
+        "pred_short_answer": "Answer: agriculture"
+    },
+    {
+        "pred_short_answer": "Answer: white blood cells"
+    },
+    {
+        "pred_short_answer": "Answer: Kris Kristofferson"
+    },
+    {
+        "pred_short_answer": "Answer: in and around Toronto"
+    },
+    {
+        "pred_short_answer": "Answer: Anthony Michael Hopkins"
+    },
+    {
+        "pred_short_answer": "Answer: Emilia Maria Clarke"
+    },
+    {
+        "pred_short_answer": "Answer: November 20, 2002"
+    },
+    {
+        "pred_short_answer": "Answer: the 17th century"
+    },
+    {
+        "pred_short_answer": "Answer: every Monday"
+    },
+    {
+        "pred_short_answer": "Answer: Anthony Hopkins"
+    },
+    {
+        "pred_short_answer": "Answer: none"
+    },
+    {
+        "pred_short_answer": "Answer: Harvard"
+    },
+    {
+        "pred_short_answer": "Answer: Ireland's Johnny Logan"
+    },
+    {
+        "pred_short_answer": "Answer: Ashutosh Gowariker"
+    },
+    {
+        "pred_short_answer": "Answer: comedy"
+    },
+    {
+        "pred_short_answer": "Answer: December 2019"
+    },
+    {
+        "pred_short_answer": "Answer: Harris"
+    },
+    {
+        "pred_short_answer": "Answer: Spain"
+    },
+    {
+        "pred_short_answer": "Answer: about 214,562"
+    },
+    {
+        "pred_short_answer": "Answer: in the 1920s"
+    },
+    {
+        "pred_short_answer": "Answer: Josh Gad"
+    },
+    {
+        "pred_short_answer": "Answer: about 5 million"
+    },
+    {
+        "pred_short_answer": "Answer: mitochondria"
+    },
+    {
+        "pred_short_answer": "Answer: Margaret"
+    },
+    {
+        "pred_short_answer": "Answer: Tomás de Torquemada"
+    },
+    {
+        "pred_short_answer": "Answer: The Logistician"
+    },
+    {
+        "pred_short_answer": "Answer: six"
+    },
+    {
+        "pred_short_answer": "Answer: AnnaSophia Robb"
+    },
+    {
+        "pred_short_answer": "Answer: October 2006"
+    },
+    {
+        "pred_short_answer": "Answer: December 15, 1791"
+    },
+    {
+        "pred_short_answer": "Answer: in 1757"
+    },
+    {
+        "pred_short_answer": "Answer: Vicente Fox Quesada"
+    },
+    {
+        "pred_short_answer": "Answer: April 26, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: SAP Center"
+    },
+    {
+        "pred_short_answer": "Answer: Mount Ossa"
+    },
+    {
+        "pred_short_answer": "Answer: Kevin Braun"
+    },
+    {
+        "pred_short_answer": "Answer: Chris Rock"
+    },
+    {
+        "pred_short_answer": "Answer: the private sector"
+    },
+    {
+        "pred_short_answer": "Answer: Chris Hemsworth"
+    },
+    {
+        "pred_short_answer": "Answer: The Replacements"
+    },
+    {
+        "pred_short_answer": "Answer: a small town in the Florida Everglades"
+    },
+    {
+        "pred_short_answer": "Answer: September 27, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: the nation's independence"
+    },
+    {
+        "pred_short_answer": "Answer: George Washington"
+    },
+    {
+        "pred_short_answer": "Answer: strategic military location"
+    },
+    {
+        "pred_short_answer": "Answer: defensive back"
+    },
+    {
+        "pred_short_answer": "Answer: muscle"
+    },
+    {
+        "pred_short_answer": "Answer: \"The Girl in the Window\""
+    },
+    {
+        "pred_short_answer": "Answer: on 26 June 1997"
+    },
+    {
+        "pred_short_answer": "Answer: James Buckley"
+    },
+    {
+        "pred_short_answer": "Answer: Torino 2006"
+    },
+    {
+        "pred_short_answer": "Answer: New Jersey Devils"
+    },
+    {
+        "pred_short_answer": "Answer: St. Augustine, Florida"
+    },
+    {
+        "pred_short_answer": "Answer: the United Kingdom"
+    },
+    {
+        "pred_short_answer": "Answer: the Chicago Bears"
+    },
+    {
+        "pred_short_answer": "Answer: Moctezuma II"
+    },
+    {
+        "pred_short_answer": "Answer: A startup business model"
+    },
+    {
+        "pred_short_answer": "Answer: Audrey"
+    },
+    {
+        "pred_short_answer": "Answer: Charlie Robinson"
+    },
+    {
+        "pred_short_answer": "## Answer: Electoral College"
+    },
+    {
+        "pred_short_answer": "Answer: three"
+    },
+    {
+        "pred_short_answer": "Answer: January 16, 1973"
+    },
+    {
+        "pred_short_answer": "Answer: Palpatine"
+    },
+    {
+        "pred_short_answer": "Answer: Saina Nehwal"
+    },
+    {
+        "pred_short_answer": "Answer: chlorofluorocarbon"
+    },
+    {
+        "pred_short_answer": "Answer: Siege of Yorktown"
+    },
+    {
+        "pred_short_answer": "Answer: Blair"
+    },
+    {
+        "pred_short_answer": "Answer: around 1000 BC"
+    },
+    {
+        "pred_short_answer": "Answer: July 2005"
+    },
+    {
+        "pred_short_answer": "Answer: January 2010"
+    },
+    {
+        "pred_short_answer": "Answer: American singer Selena Gomez"
+    },
+    {
+        "pred_short_answer": "Answer: Marley & Me"
+    },
+    {
+        "pred_short_answer": "Answer: April 2011"
+    },
+    {
+        "pred_short_answer": "Answer: May 23, 1977"
+    },
+    {
+        "pred_short_answer": "Answer: Bruce Springsteen"
+    },
+    {
+        "pred_short_answer": "Answer: Kareem Abdul-Jabbar"
+    },
+    {
+        "pred_short_answer": "Answer: Lady Gaga"
+    },
+    {
+        "pred_short_answer": "Answer: somatic motor neurons"
+    },
+    {
+        "pred_short_answer": "Answer: Ravana"
+    },
+    {
+        "pred_short_answer": "Answer: Charles Hart"
+    },
+    {
+        "pred_short_answer": "Answer: Help!"
+    },
+    {
+        "pred_short_answer": "Answer: George II"
+    },
+    {
+        "pred_short_answer": "Answer: left coronary artery"
+    },
+    {
+        "pred_short_answer": "Answer: Attorney General"
+    },
+    {
+        "pred_short_answer": "Answer: The Statler Brothers"
+    },
+    {
+        "pred_short_answer": "Answer: the national instrument"
+    },
+    {
+        "pred_short_answer": "Answer: Jimmy Jam and Terry Lewis"
+    },
+    {
+        "pred_short_answer": "Answer: September 19, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: February 22, 1977"
+    },
+    {
+        "pred_short_answer": "Answer: London"
+    },
+    {
+        "pred_short_answer": "Answer: the narrator"
+    },
+    {
+        "pred_short_answer": "Answer: \"The Star-Spangled Banner\""
+    },
+    {
+        "pred_short_answer": "Answer: the war"
+    },
+    {
+        "pred_short_answer": "Answer: over 100 countries"
+    },
+    {
+        "pred_short_answer": "Answer: December 1983"
+    },
+    {
+        "pred_short_answer": "Answer: judicial review"
+    },
+    {
+        "pred_short_answer": "Answer: July 29, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Brian Van Holt"
+    },
+    {
+        "pred_short_answer": "Answer: Philosophy"
+    },
+    {
+        "pred_short_answer": "Answer: seven"
+    },
+    {
+        "pred_short_answer": "Answer: January 25, 1945"
+    },
+    {
+        "pred_short_answer": "Answer: approximately 153,000"
+    },
+    {
+        "pred_short_answer": "Answer: about 30"
+    },
+    {
+        "pred_short_answer": "Answer: Venezuela"
+    },
+    {
+        "pred_short_answer": "Answer: in 1937"
+    },
+    {
+        "pred_short_answer": "Answer: May 19, 2015"
+    },
+    {
+        "pred_short_answer": "Answer: Auguste Escoffier"
+    },
+    {
+        "pred_short_answer": "Answer: June"
+    },
+    {
+        "pred_short_answer": "Answer: John Belushi"
+    },
+    {
+        "pred_short_answer": "Answer: double bonds"
+    },
+    {
+        "pred_short_answer": "Answer: October 11, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Manuel Neuer"
+    },
+    {
+        "pred_short_answer": "Answer: oil and gas exploration"
+    },
+    {
+        "pred_short_answer": "Answer: router"
+    },
+    {
+        "pred_short_answer": "Answer: Babur"
+    },
+    {
+        "pred_short_answer": "Answer: \"The Last Jump\""
+    },
+    {
+        "pred_short_answer": "Answer: in 1951–52"
+    },
+    {
+        "pred_short_answer": "Answer: Om Prakash Rawat"
+    },
+    {
+        "pred_short_answer": "Answer: Robert Hooke"
+    },
+    {
+        "pred_short_answer": "Answer: the pectoral muscle"
+    },
+    {
+        "pred_short_answer": "Answer: domain name system"
+    },
+    {
+        "pred_short_answer": "Answer: Andy"
+    },
+    {
+        "pred_short_answer": "Answer: Stephen Rea"
+    },
+    {
+        "pred_short_answer": "Answer: John Mellencamp"
+    },
+    {
+        "pred_short_answer": "Answer: Dr. George Huntington"
+    },
+    {
+        "pred_short_answer": "Answer: in 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Deion Sanders"
+    },
+    {
+        "pred_short_answer": "Answer: Watch Tower Society"
+    },
+    {
+        "pred_short_answer": "Answer: Alyson Lee Hannigan"
+    },
+    {
+        "pred_short_answer": "Answer: Tracy McConnell"
+    },
+    {
+        "pred_short_answer": "Answer: crepuscular"
+    },
+    {
+        "pred_short_answer": "Answer: Jack Napier"
+    },
+    {
+        "pred_short_answer": "Answer: vascular cambium"
+    },
+    {
+        "pred_short_answer": "Answer: Texas A&M"
+    },
+    {
+        "pred_short_answer": "Answer: Pentatonix"
+    },
+    {
+        "pred_short_answer": "Answer: The Statler Brothers"
+    },
+    {
+        "pred_short_answer": "Answer: the NFL"
+    },
+    {
+        "pred_short_answer": "Answer: The Miracles"
+    },
+    {
+        "pred_short_answer": "Answer: October 2005"
+    },
+    {
+        "pred_short_answer": "Answer: Kiki Dee"
+    },
+    {
+        "pred_short_answer": "Answer: July 4, 1965"
+    },
+    {
+        "pred_short_answer": "Answer: Bob Dylan"
+    },
+    {
+        "pred_short_answer": "Answer: Lakers"
+    },
+    {
+        "pred_short_answer": "Answer: Spruce Knob"
+    },
+    {
+        "pred_short_answer": "Answer: The Last Fast Food Meal"
+    },
+    {
+        "pred_short_answer": "Answer: October 27, 2009"
+    },
+    {
+        "pred_short_answer": "Answer: September 22, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: in the Mississippi Delta"
+    },
+    {
+        "pred_short_answer": "Answer: Derek Hough"
+    },
+    {
+        "pred_short_answer": "Answer: dolmens"
+    },
+    {
+        "pred_short_answer": "Answer: seven minutes and eleven seconds"
+    },
+    {
+        "pred_short_answer": "Answer: Gupta Empire"
+    },
+    {
+        "pred_short_answer": "Answer: English"
+    },
+    {
+        "pred_short_answer": "Answer: January 19, 1948"
+    },
+    {
+        "pred_short_answer": "Answer: Donald Bradman"
+    },
+    {
+        "pred_short_answer": "Answer: Super Bowl LII"
+    },
+    {
+        "pred_short_answer": "Answer: William the Conqueror"
+    },
+    {
+        "pred_short_answer": "Answer: Germany"
+    },
+    {
+        "pred_short_answer": "Answer: Zhu Yuanzhang"
+    },
+    {
+        "pred_short_answer": "Answer: The Jungle Book"
+    },
+    {
+        "pred_short_answer": "Answer: August 1994"
+    },
+    {
+        "pred_short_answer": "Answer: in 1831"
+    },
+    {
+        "pred_short_answer": "Answer: June 27, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: around 445 BC – c. 399 BC"
+    },
+    {
+        "pred_short_answer": "Answer: mashed potatoes"
+    },
+    {
+        "pred_short_answer": "Answer: Cairo, Illinois"
+    },
+    {
+        "pred_short_answer": "Answer: about 21,196 km"
+    },
+    {
+        "pred_short_answer": "Answer: the 1930s"
+    },
+    {
+        "pred_short_answer": "Answer: employer"
+    },
+    {
+        "pred_short_answer": "Answer: The Hunger Games"
+    },
+    {
+        "pred_short_answer": "Answer: the Pacific Northwest"
+    },
+    {
+        "pred_short_answer": "Answer: Brian Pillman"
+    },
+    {
+        "pred_short_answer": "Answer: second most populous"
+    },
+    {
+        "pred_short_answer": "Answer: Nivedita \"Nivi\" Bhatia"
+    },
+    {
+        "pred_short_answer": "Answer: September 11, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: John Eccles"
+    },
+    {
+        "pred_short_answer": "Answer: individual taxpayers"
+    },
+    {
+        "pred_short_answer": "Answer: New York City"
+    },
+    {
+        "pred_short_answer": "Answer: language"
+    },
+    {
+        "pred_short_answer": "Answer: Internet Relay Chat"
+    },
+    {
+        "pred_short_answer": "Answer: ten"
+    },
+    {
+        "pred_short_answer": "Answer: December 1, 1972"
+    },
+    {
+        "pred_short_answer": "Answer: The Vocal Team"
+    },
+    {
+        "pred_short_answer": "Answer: October 22, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Jennifer Jason Leigh"
+    },
+    {
+        "pred_short_answer": "Answer: October 17, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Isabela Moner"
+    },
+    {
+        "pred_short_answer": "Answer: Emmitt Smith"
+    },
+    {
+        "pred_short_answer": "Answer: Ciorănele"
+    },
+    {
+        "pred_short_answer": "Answer: December 1879"
+    },
+    {
+        "pred_short_answer": "Answer: in The Atlantic Monthly"
+    },
+    {
+        "pred_short_answer": "Answer: Pakistan"
+    },
+    {
+        "pred_short_answer": "Answer: late 1990s"
+    },
+    {
+        "pred_short_answer": "Answer: Tokyo"
+    },
+    {
+        "pred_short_answer": "Answer: won"
+    },
+    {
+        "pred_short_answer": "Answer: Line of Control"
+    },
+    {
+        "pred_short_answer": "Answer: continental collision"
+    },
+    {
+        "pred_short_answer": "Answer: January 2018"
+    },
+    {
+        "pred_short_answer": "Answer: less than 2%"
+    },
+    {
+        "pred_short_answer": "Answer: about 20 years"
+    },
+    {
+        "pred_short_answer": "Answer: Zulfikar Ali Bhutto"
+    },
+    {
+        "pred_short_answer": "Answer: gastrocnemius"
+    },
+    {
+        "pred_short_answer": "Answer: Article Two"
+    },
+    {
+        "pred_short_answer": "Answer: Louis XVIII"
+    },
+    {
+        "pred_short_answer": "Answer: Edward Williams Gassaway Jr."
+    },
+    {
+        "pred_short_answer": "Answer: Judge Richard Leon"
+    },
+    {
+        "pred_short_answer": "Answer: March 17, 2016"
+    },
+    {
+        "pred_short_answer": "Answer: Brenda"
+    },
+    {
+        "pred_short_answer": "Answer: Matthias Jakob Schleiden"
+    },
+    {
+        "pred_short_answer": "Answer: December 15, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: no"
+    },
+    {
+        "pred_short_answer": "Answer: energy loss"
+    },
+    {
+        "pred_short_answer": "Answer: Season 9"
+    },
+    {
+        "pred_short_answer": "Answer: freedom of religion"
+    },
+    {
+        "pred_short_answer": "Answer: Hawaii"
+    },
+    {
+        "pred_short_answer": "Answer: Dieu te bénisse"
+    },
+    {
+        "pred_short_answer": "Answer: Rajiv Kumar"
+    },
+    {
+        "pred_short_answer": "Answer: Kellie Pickler"
+    },
+    {
+        "pred_short_answer": "Answer: September 19, 2011"
+    },
+    {
+        "pred_short_answer": "Answer: Coroebus of Elis"
+    },
+    {
+        "pred_short_answer": "Answer: star anise"
+    },
+    {
+        "pred_short_answer": "Answer: John Forsythe"
+    },
+    {
+        "pred_short_answer": "Answer: between 700 and 1000 AD"
+    },
+    {
+        "pred_short_answer": "Answer: David Alan Miller"
+    },
+    {
+        "pred_short_answer": "Answer: the states"
+    },
+    {
+        "pred_short_answer": "Answer: September 24, 2008"
+    },
+    {
+        "pred_short_answer": "Answer: the 5th century BC"
+    },
+    {
+        "pred_short_answer": "Answer: December 1960"
+    },
+    {
+        "pred_short_answer": "Answer: The Seeger Sessions"
+    },
+    {
+        "pred_short_answer": "Answer: George Herbert Walker Bush"
+    },
+    {
+        "pred_short_answer": "Answer: Sigmund Freud"
+    },
+    {
+        "pred_short_answer": "Answer: twenty"
+    },
+    {
+        "pred_short_answer": "Answer: Jules Prendergast"
+    },
+    {
+        "pred_short_answer": "Answer: Nancy Olson"
+    },
+    {
+        "pred_short_answer": "Answer: August 31, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Nancy Cartwright"
+    },
+    {
+        "pred_short_answer": "Answer: Steven Adler"
+    },
+    {
+        "pred_short_answer": "Answer: Μαλακάς Ματας"
+    },
+    {
+        "pred_short_answer": "Answer: The Scots"
+    },
+    {
+        "pred_short_answer": "Answer: between 1797 and 1799"
+    },
+    {
+        "pred_short_answer": "Answer: August 1998"
+    },
+    {
+        "pred_short_answer": "Answer: since 1988"
+    },
+    {
+        "pred_short_answer": "Answer: Jordan Spieth"
+    },
+    {
+        "pred_short_answer": "Answer: Johnny Depp"
+    },
+    {
+        "pred_short_answer": "Answer: mitochondria"
+    },
+    {
+        "pred_short_answer": "Answer: \"You're Beautiful\""
+    },
+    {
+        "pred_short_answer": "Answer: James McAvoy"
+    },
+    {
+        "pred_short_answer": "Answer: The Last of the Downton Abbey"
+    },
+    {
+        "pred_short_answer": "Answer: the 1920s"
+    },
+    {
+        "pred_short_answer": "Answer: Ephesus"
+    },
+    {
+        "pred_short_answer": "Answer: Alexandra Holden"
+    },
+    {
+        "pred_short_answer": "Answer: the Bible"
+    },
+    {
+        "pred_short_answer": "Answer: December 1, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Ali Daei"
+    },
+    {
+        "pred_short_answer": "Answer: Kevin Costner"
+    },
+    {
+        "pred_short_answer": "Answer: metalworking"
+    },
+    {
+        "pred_short_answer": "Answer: New York City"
+    },
+    {
+        "pred_short_answer": "Answer: One hundred"
+    },
+    {
+        "pred_short_answer": "Answer: November 9, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: electric lighting"
+    },
+    {
+        "pred_short_answer": "Answer: nucleus"
+    },
+    {
+        "pred_short_answer": "Answer: October 2003"
+    },
+    {
+        "pred_short_answer": "Answer: the first day of classes"
+    },
+    {
+        "pred_short_answer": "Answer: late 18th century"
+    },
+    {
+        "pred_short_answer": "Answer: Thomas Jefferson"
+    },
+    {
+        "pred_short_answer": "Answer: Michael Shannon"
+    },
+    {
+        "pred_short_answer": "Answer: New England Patriots"
+    },
+    {
+        "pred_short_answer": "Answer: Richard Stallman"
+    },
+    {
+        "pred_short_answer": "Answer: nitroglycerin"
+    },
+    {
+        "pred_short_answer": "Answer: Norway"
+    },
+    {
+        "pred_short_answer": "Answer: the pelvis"
+    },
+    {
+        "pred_short_answer": "Answer: in the late 1800s"
+    },
+    {
+        "pred_short_answer": "Answer: Companion cells"
+    },
+    {
+        "pred_short_answer": "Answer: Mare Tranquillitatis"
+    },
+    {
+        "pred_short_answer": "Answer: John de Mol"
+    },
+    {
+        "pred_short_answer": "Answer: in and around New Orleans"
+    },
+    {
+        "pred_short_answer": "Answer: Saint Dominic"
+    },
+    {
+        "pred_short_answer": "Answer: Anne Heywood"
+    },
+    {
+        "pred_short_answer": "Answer: December 20"
+    },
+    {
+        "pred_short_answer": "Answer: August 1993"
+    },
+    {
+        "pred_short_answer": "Answer: California"
+    },
+    {
+        "pred_short_answer": "Answer: the show's third season"
+    },
+    {
+        "pred_short_answer": "Answer: Havana Harbor, Cuba"
+    },
+    {
+        "pred_short_answer": "Answer: Paul McCartney"
+    },
+    {
+        "pred_short_answer": "Answer: Blue"
+    },
+    {
+        "pred_short_answer": "Answer: the Montreal Canadiens"
+    },
+    {
+        "pred_short_answer": "Answer: about 4.37 light years"
+    },
+    {
+        "pred_short_answer": "Answer: between 2,440 and 2,520 lb"
+    },
+    {
+        "pred_short_answer": "Answer: February 23, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Commodus"
+    },
+    {
+        "pred_short_answer": "Answer: Rocket Raccoon"
+    },
+    {
+        "pred_short_answer": "Answer: Bulgaria"
+    },
+    {
+        "pred_short_answer": "Answer: eighteen years"
+    },
+    {
+        "pred_short_answer": "Answer: about 12.3%"
+    },
+    {
+        "pred_short_answer": "Answer: in the cells"
+    },
+    {
+        "pred_short_answer": "Answer: Kevin Dunn"
+    },
+    {
+        "pred_short_answer": "Answer: Sloane Stephens"
+    },
+    {
+        "pred_short_answer": "Answer: Ingrid Bergman"
+    },
+    {
+        "pred_short_answer": "Answer: the states"
+    },
+    {
+        "pred_short_answer": "Answer: John F. Kennedy"
+    },
+    {
+        "pred_short_answer": "Answer: in 2013"
+    },
+    {
+        "pred_short_answer": "Answer: Jimmy Jam"
+    },
+    {
+        "pred_short_answer": "Answer: Super Bowl LII"
+    },
+    {
+        "pred_short_answer": "Answer: Brian Anthony Smith"
+    },
+    {
+        "pred_short_answer": "Answer: Golden State Warriors"
+    },
+    {
+        "pred_short_answer": "Answer: AECOM"
+    },
+    {
+        "pred_short_answer": "Answer: Nick Price"
+    },
+    {
+        "pred_short_answer": "Answer: private"
+    },
+    {
+        "pred_short_answer": "Answer: Craig Kilborn"
+    },
+    {
+        "pred_short_answer": "Answer: Lee County"
+    },
+    {
+        "pred_short_answer": "Answer: James Marsden"
+    },
+    {
+        "pred_short_answer": "Answer: book"
+    },
+    {
+        "pred_short_answer": "Answer: the 16th century"
+    },
+    {
+        "pred_short_answer": "Answer: Boyd Gaming Corporation"
+    },
+    {
+        "pred_short_answer": "Answer: in Fort Worth, Texas"
+    },
+    {
+        "pred_short_answer": "Answer: Batman"
+    },
+    {
+        "pred_short_answer": "Answer: El Paso, Texas"
+    },
+    {
+        "pred_short_answer": "Answer: Reverse-Flash"
+    },
+    {
+        "pred_short_answer": "Answer: the Piazza di Spagna"
+    },
+    {
+        "pred_short_answer": "Answer: Thomas Jefferson"
+    },
+    {
+        "pred_short_answer": "Answer: Toronto"
+    },
+    {
+        "pred_short_answer": "Answer: India"
+    },
+    {
+        "pred_short_answer": "Answer: The Inner Light"
+    },
+    {
+        "pred_short_answer": "Answer: The Grand Alliance"
+    },
+    {
+        "pred_short_answer": "Answer: Jack Nicholson"
+    },
+    {
+        "pred_short_answer": "Answer: six"
+    },
+    {
+        "pred_short_answer": "Answer: Data Protection Act 1998"
+    },
+    {
+        "pred_short_answer": "Answer: the 1960s"
+    },
+    {
+        "pred_short_answer": "Answer: Kelsey Asbille"
+    },
+    {
+        "pred_short_answer": "Answer: The Statler Brothers"
+    },
+    {
+        "pred_short_answer": "Answer: Oak Island, Nova Scotia"
+    },
+    {
+        "pred_short_answer": "Answer: the Illinois General Assembly"
+    },
+    {
+        "pred_short_answer": "Answer: October 15, 1984"
+    },
+    {
+        "pred_short_answer": "Answer: the Canadian Rockies"
+    },
+    {
+        "pred_short_answer": "Answer: United States"
+    },
+    {
+        "pred_short_answer": "Answer: Switzerland"
+    },
+    {
+        "pred_short_answer": "Answer: William D. Garfield"
+    },
+    {
+        "pred_short_answer": "Answer: June 20, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: the instantaneous speed"
+    },
+    {
+        "pred_short_answer": "Answer: up to 12.5 m"
+    },
+    {
+        "pred_short_answer": "Answer: James Franco"
+    },
+    {
+        "pred_short_answer": "Answer: Lady Gaga"
+    },
+    {
+        "pred_short_answer": "Answer: A weight class"
+    },
+    {
+        "pred_short_answer": "Answer: Mukesh Ambani"
+    },
+    {
+        "pred_short_answer": "Answer: In the 20th century"
+    },
+    {
+        "pred_short_answer": "Answer: heart"
+    },
+    {
+        "pred_short_answer": "Answer: Zee"
+    },
+    {
+        "pred_short_answer": "Answer: March 2006"
+    },
+    {
+        "pred_short_answer": "Answer: John Hughes"
+    },
+    {
+        "pred_short_answer": "Answer: Kelly Clarkson"
+    },
+    {
+        "pred_short_answer": "Answer: lacteals"
+    },
+    {
+        "pred_short_answer": "Answer: Vincent Price"
+    },
+    {
+        "pred_short_answer": "Answer: two-year term"
+    },
+    {
+        "pred_short_answer": "Answer: November 15, 2016"
+    },
+    {
+        "pred_short_answer": "Answer: three"
+    },
+    {
+        "pred_short_answer": "Answer: island of Scheria"
+    },
+    {
+        "pred_short_answer": "Answer: Wilt Chamberlain"
+    },
+    {
+        "pred_short_answer": "Answer: San Antonio"
+    },
+    {
+        "pred_short_answer": "Answer: George Washington"
+    },
+    {
+        "pred_short_answer": "Answer: December 31, 2016"
+    },
+    {
+        "pred_short_answer": "Answer: organ protection"
+    },
+    {
+        "pred_short_answer": "Answer: Vancouver, British Columbia"
+    },
+    {
+        "pred_short_answer": "Answer: Jermaine Stewart"
+    },
+    {
+        "pred_short_answer": "Answer: John Rhys-Davies"
+    },
+    {
+        "pred_short_answer": "Answer: Super Bowl XXXVII"
+    },
+    {
+        "pred_short_answer": "Answer: Eva Amurri"
+    },
+    {
+        "pred_short_answer": "Answer: John Paul White"
+    },
+    {
+        "pred_short_answer": "Answer: Jet Li"
+    },
+    {
+        "pred_short_answer": "Answer: The 2016 World Series"
+    },
+    {
+        "pred_short_answer": "Answer: Hillsong United"
+    },
+    {
+        "pred_short_answer": "Answer: in 1898"
+    },
+    {
+        "pred_short_answer": "Answer: Allegiant Stadium in Paradise, Nevada"
+    },
+    {
+        "pred_short_answer": "Answer: the Sandpipers"
+    },
+    {
+        "pred_short_answer": "Answer: Macclesfield"
+    },
+    {
+        "pred_short_answer": "Answer: Jonathan Coulton"
+    },
+    {
+        "pred_short_answer": "Answer: Hellenism"
+    },
+    {
+        "pred_short_answer": "Answer: Azad"
+    },
+    {
+        "pred_short_answer": "Answer: Jordan Fisher"
+    },
+    {
+        "pred_short_answer": "Answer: Lakehurst, New Jersey"
+    },
+    {
+        "pred_short_answer": "Answer: five permanent judges"
+    },
+    {
+        "pred_short_answer": "Answer: to collect menstrual flow"
+    },
+    {
+        "pred_short_answer": "Answer: Michelangelo"
+    },
+    {
+        "pred_short_answer": "Answer: Tevye"
+    },
+    {
+        "pred_short_answer": "Answer: Los Angeles"
+    },
+    {
+        "pred_short_answer": "Answer: Anacortes, Washington"
+    },
+    {
+        "pred_short_answer": "Answer: General Martín Perfecto de Cos"
+    },
+    {
+        "pred_short_answer": "Answer: Vasco da Gama"
+    },
+    {
+        "pred_short_answer": "Answer: September"
+    },
+    {
+        "pred_short_answer": "Answer: The Who"
+    },
+    {
+        "pred_short_answer": "Answer: approximately 958 mbar"
+    },
+    {
+        "pred_short_answer": "Answer: December 17, 2006"
+    },
+    {
+        "pred_short_answer": "Answer: Vera Farmiga"
+    },
+    {
+        "pred_short_answer": "Answer: twelve"
+    },
+    {
+        "pred_short_answer": "Answer: retina"
+    },
+    {
+        "pred_short_answer": "Answer: Chrysaora hysoscella"
+    },
+    {
+        "pred_short_answer": "Answer: Michael Jordan"
+    },
+    {
+        "pred_short_answer": "Answer: May 15, 2001"
+    },
+    {
+        "pred_short_answer": "Answer: March 17, 624"
+    },
+    {
+        "pred_short_answer": "Answer: The Naughty Nineties"
+    },
+    {
+        "pred_short_answer": "Answer: seven"
+    },
+    {
+        "pred_short_answer": "Answer: approximately 1,500,000,000,000,000,000,0"
+    },
+    {
+        "pred_short_answer": "Answer: Dodge Charger"
+    },
+    {
+        "pred_short_answer": "Answer: Ummah"
+    },
+    {
+        "pred_short_answer": "Answer: October 1, 1982"
+    },
+    {
+        "pred_short_answer": "Answer: President Mwai Kibaki"
+    },
+    {
+        "pred_short_answer": "Answer: May 17, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Monitoring"
+    },
+    {
+        "pred_short_answer": "Answer: Kristen Johnston"
+    },
+    {
+        "pred_short_answer": "Answer: Nashville, Tennessee"
+    },
+    {
+        "pred_short_answer": "Answer: China"
+    },
+    {
+        "pred_short_answer": "Answer: four"
+    },
+    {
+        "pred_short_answer": "Assistant: Christopher Jones"
+    },
+    {
+        "pred_short_answer": "Answer: between 50 and 60 minutes"
+    },
+    {
+        "pred_short_answer": "Answer: seven"
+    },
+    {
+        "pred_short_answer": "Answer: Abraham Lincoln"
+    },
+    {
+        "pred_short_answer": "Answer: approximately 2,150"
+    },
+    {
+        "pred_short_answer": "Answer: Los Angeles"
+    },
+    {
+        "pred_short_answer": "Answer: Tracy Lawrence"
+    },
+    {
+        "pred_short_answer": "Answer: the prime meridian"
+    },
+    {
+        "pred_short_answer": "Answer: Albrecht Dürer"
+    },
+    {
+        "pred_short_answer": "Answer: in 1901"
+    },
+    {
+        "pred_short_answer": "Answer: Seth MacFarlane"
+    },
+    {
+        "pred_short_answer": "Answer: November 16, 2001"
+    },
+    {
+        "pred_short_answer": "Answer: in the Orion Nebula"
+    },
+    {
+        "pred_short_answer": "Answer: The Wolf of Wall Street"
+    },
+    {
+        "pred_short_answer": "Answer: (342)"
+    },
+    {
+        "pred_short_answer": "Answer: the 1950s"
+    },
+    {
+        "pred_short_answer": "Answer: a hinge joint"
+    },
+    {
+        "pred_short_answer": "Answer: the Mediterranean Sea"
+    },
+    {
+        "pred_short_answer": "Answer: Exodus"
+    },
+    {
+        "pred_short_answer": "Answer: Fred Williamson"
+    },
+    {
+        "pred_short_answer": "Answer: Carrie Underwood"
+    },
+    {
+        "pred_short_answer": "Answer: overcoming insecurities"
+    },
+    {
+        "pred_short_answer": "Answer: H. H. \"Huey\" Mitchell"
+    },
+    {
+        "pred_short_answer": "Answer: Michael Mando"
+    },
+    {
+        "pred_short_answer": "Answer: Instagram's own account"
+    },
+    {
+        "pred_short_answer": "Answer: Susan Engel"
+    },
+    {
+        "pred_short_answer": "Answer: on 20 January 2018"
+    },
+    {
+        "pred_short_answer": "Answer: November 5, 1988"
+    },
+    {
+        "pred_short_answer": "Answer: diastema"
+    },
+    {
+        "pred_short_answer": "Answer: the 1994 season"
+    },
+    {
+        "pred_short_answer": "Answer: the 1907 World Series"
+    },
+    {
+        "pred_short_answer": "Answer: March 31, 1920"
+    },
+    {
+        "pred_short_answer": "Answer: white"
+    },
+    {
+        "pred_short_answer": "Answer: the 1920s"
+    },
+    {
+        "pred_short_answer": "Answer: April 1"
+    },
+    {
+        "pred_short_answer": "Answer: fourth"
+    },
+    {
+        "pred_short_answer": "Answer: Brazil"
+    },
+    {
+        "pred_short_answer": "Answer: Taika Waititi"
+    },
+    {
+        "pred_short_answer": "Answer: LisaRaye McCoy"
+    },
+    {
+        "pred_short_answer": "Answer: Dr. Lexie Grey"
+    },
+    {
+        "pred_short_answer": "Answer: Nishant Singh"
+    },
+    {
+        "pred_short_answer": "Answer: John Lennon"
+    },
+    {
+        "pred_short_answer": "Answer: at least one year"
+    },
+    {
+        "pred_short_answer": "Answer: a Broadway play"
+    },
+    {
+        "pred_short_answer": "Answer: Charles B. Minturn"
+    },
+    {
+        "pred_short_answer": "Answer: Rebecca Luker"
+    },
+    {
+        "pred_short_answer": "Answer: Bill Russell"
+    },
+    {
+        "pred_short_answer": "Answer: Fionnuala Sherry"
+    },
+    {
+        "pred_short_answer": "Answer: the late 1920s"
+    },
+    {
+        "pred_short_answer": "Answer: actress Jenna Ortega"
+    },
+    {
+        "pred_short_answer": "Answer: London, England"
+    },
+    {
+        "pred_short_answer": "Answer: Kansas City Chiefs"
+    },
+    {
+        "pred_short_answer": "Answer: Hal David"
+    },
+    {
+        "pred_short_answer": "Answer: Lea Salonga"
+    },
+    {
+        "pred_short_answer": "Answer: in the Ozarks"
+    },
+    {
+        "pred_short_answer": "Answer: February 7, 2010"
+    },
+    {
+        "pred_short_answer": "Answer: Linux"
+    },
+    {
+        "pred_short_answer": "Answer: five"
+    },
+    {
+        "pred_short_answer": "Answer: John Michael Caruso"
+    },
+    {
+        "pred_short_answer": "Answer: November 25, 1997"
+    },
+    {
+        "pred_short_answer": "Answer: The Ronettes"
+    },
+    {
+        "pred_short_answer": "Answer: Kelly Kruger"
+    },
+    {
+        "pred_short_answer": "Answer: Garcia"
+    },
+    {
+        "pred_short_answer": "Answer: John Locke"
+    },
+    {
+        "pred_short_answer": "Answer: Jharkhand Dussehra"
+    },
+    {
+        "pred_short_answer": "Answer: his mother"
+    },
+    {
+        "pred_short_answer": "Answer: Costa Rica"
+    },
+    {
+        "pred_short_answer": "Answer: Sonny and Cher"
+    },
+    {
+        "pred_short_answer": "Answer: the skeleton"
+    },
+    {
+        "pred_short_answer": "Answer: Australia"
+    },
+    {
+        "pred_short_answer": "Answer: October 2, 2016"
+    },
+    {
+        "pred_short_answer": "Answer: John Ratatouille"
+    },
+    {
+        "pred_short_answer": "Answer: eight"
+    },
+    {
+        "pred_short_answer": "Answer: his son"
+    },
+    {
+        "pred_short_answer": "Answer: by age 3"
+    },
+    {
+        "pred_short_answer": "Answer: lettuce"
+    },
+    {
+        "pred_short_answer": "Answer: The Social Network"
+    },
+    {
+        "pred_short_answer": "Answer: the image of an object"
+    },
+    {
+        "pred_short_answer": "Answer: Chris Gayle"
+    },
+    {
+        "pred_short_answer": "Answer: November 1915"
+    },
+    {
+        "pred_short_answer": "Answer: Alicia Keys"
+    },
+    {
+        "pred_short_answer": "Answer: tenants"
+    },
+    {
+        "pred_short_answer": "Answer: Kerri Einarson"
+    },
+    {
+        "pred_short_answer": "Answer: promoting social liberalism"
+    },
+    {
+        "pred_short_answer": "Answer: The Who"
+    },
+    {
+        "pred_short_answer": "Answer: the Museum of Science in Boston"
+    },
+    {
+        "pred_short_answer": "Answer: Dan Stevens"
+    },
+    {
+        "pred_short_answer": "Answer: William Hooper"
+    },
+    {
+        "pred_short_answer": "[](https://www.celebritynetwok.com/tv/shows/impractical-jokers/2017/08/2"
+    },
+    {
+        "pred_short_answer": "Answer: Anandiben Patel"
+    },
+    {
+        "pred_short_answer": "Answer: Aaron Lewis"
+    },
+    {
+        "pred_short_answer": "Answer: the late 780s"
+    },
+    {
+        "pred_short_answer": "Answer: Kathleen Kinmont"
+    },
+    {
+        "pred_short_answer": "Answer: Southern states"
+    },
+    {
+        "pred_short_answer": "Answer: John C. McGinley"
+    },
+    {
+        "pred_short_answer": "Answer: Bobby Vee"
+    },
+    {
+        "pred_short_answer": "Answer: France"
+    },
+    {
+        "pred_short_answer": "Answer: six"
+    },
+    {
+        "pred_short_answer": "Answer: the temporal lobes"
+    },
+    {
+        "pred_short_answer": "Answer: May 23, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: Senegal"
+    },
+    {
+        "pred_short_answer": "Answer: nearly 4,000 years"
+    },
+    {
+        "pred_short_answer": "Answer: photosystems"
+    },
+    {
+        "pred_short_answer": "Answer: New York City"
+    },
+    {
+        "pred_short_answer": "Answer: the family"
+    },
+    {
+        "pred_short_answer": "Answer: International Baccalaureate"
+    },
+    {
+        "pred_short_answer": "Answer: August 1979"
+    },
+    {
+        "pred_short_answer": "Answer: Nagaland"
+    },
+    {
+        "pred_short_answer": "Answer: throughout the country"
+    },
+    {
+        "pred_short_answer": "Answer: fossil fuels"
+    },
+    {
+        "pred_short_answer": "Answer: Sachchidananda Sinha"
+    },
+    {
+        "pred_short_answer": "Answer: message"
+    },
+    {
+        "pred_short_answer": "Answer: Corey"
+    },
+    {
+        "pred_short_answer": "Answer: soil water potential"
+    },
+    {
+        "pred_short_answer": "Answer: October 1948"
+    },
+    {
+        "pred_short_answer": "Answer: The full chamber"
+    },
+    {
+        "pred_short_answer": "Answer: Daryl Sabara"
+    },
+    {
+        "pred_short_answer": "Answer: Mark Ruffalo"
+    },
+    {
+        "pred_short_answer": "Answer: \"The Last Recruit\""
+    },
+    {
+        "pred_short_answer": "Answer: Central Park"
+    },
+    {
+        "pred_short_answer": "Answer: John Donne"
+    },
+    {
+        "pred_short_answer": "Answer: Tokyo"
+    },
+    {
+        "pred_short_answer": "Answer: Louvre Museum, Paris"
+    },
+    {
+        "pred_short_answer": "Answer: four"
+    },
+    {
+        "pred_short_answer": "Answer: In 1989"
+    },
+    {
+        "pred_short_answer": "Answer: \"I Write Sins Not Tragedies\""
+    },
+    {
+        "pred_short_answer": "Answer: approximately 220 pages"
+    },
+    {
+        "pred_short_answer": "Answer: the Cathedral of Saint Peter"
+    },
+    {
+        "pred_short_answer": "Answer: July 1980"
+    },
+    {
+        "pred_short_answer": "Answer: Michael Ian Howard"
+    },
+    {
+        "pred_short_answer": "Answer: Peter Billingsley"
+    },
+    {
+        "pred_short_answer": "Answer: Martin Freeman"
+    },
+    {
+        "pred_short_answer": "Answer: after the opening lead"
+    },
+    {
+        "pred_short_answer": "Answer: Old Trafford"
+    },
+    {
+        "pred_short_answer": "Answer: October 11, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: Joey Fatstone"
+    },
+    {
+        "pred_short_answer": "Answer: AYK2324"
+    },
+    {
+        "pred_short_answer": "Answer: the 11th century"
+    },
+    {
+        "pred_short_answer": "Answer: December 1983"
+    },
+    {
+        "pred_short_answer": "Answer: strike-slip"
+    },
+    {
+        "pred_short_answer": "Answer: approximately 24 hours"
+    },
+    {
+        "pred_short_answer": "Answer: Mississippi River"
+    },
+    {
+        "pred_short_answer": "Answer: Banda Sea"
+    },
+    {
+        "pred_short_answer": "Answer: City 17"
+    },
+    {
+        "pred_short_answer": "Answer: A Christmas Story II"
+    },
+    {
+        "pred_short_answer": "Answer: Alice Cooper"
+    },
+    {
+        "pred_short_answer": "Answer: Alexis Arquette"
+    },
+    {
+        "pred_short_answer": "Answer: September 27, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: John Hagee"
+    },
+    {
+        "pred_short_answer": "Answer: kangaroos"
+    },
+    {
+        "pred_short_answer": "Answer: −89.2 °C"
+    },
+    {
+        "pred_short_answer": "Answer: the ICAI"
+    },
+    {
+        "pred_short_answer": "Answer: US customary units"
+    },
+    {
+        "pred_short_answer": "Answer: Hakainde Humaneti Chipenda"
+    },
+    {
+        "pred_short_answer": "Answer: Hataraku Saikyou no Mahou Shōjo"
+    },
+    {
+        "pred_short_answer": "Answer: France"
+    },
+    {
+        "pred_short_answer": "Answer: Peter Vogel"
+    },
+    {
+        "pred_short_answer": "Answer: March 30, 2018"
+    },
+    {
+        "pred_short_answer": "Answer: the Orinoco River"
+    },
+    {
+        "pred_short_answer": "Answer: King Nahapana"
+    },
+    {
+        "pred_short_answer": "Answer: Roger Federer"
+    },
+    {
+        "pred_short_answer": "Answer: Vienna"
+    },
+    {
+        "pred_short_answer": "Answer: Gyanendra Express"
+    },
+    {
+        "pred_short_answer": "Answer: The Baseball Writers' Association of America"
+    },
+    {
+        "pred_short_answer": "Answer: Justin Theroux"
+    },
+    {
+        "pred_short_answer": "Answer: December 1994"
+    },
+    {
+        "pred_short_answer": "Answer: the Roman emperor Augustus"
+    },
+    {
+        "pred_short_answer": "Answer: Alan Charles Bean"
+    },
+    {
+        "pred_short_answer": "Answer: Jeff Bridges"
+    },
+    {
+        "pred_short_answer": "Answer: November 2, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: December 1982"
+    },
+    {
+        "pred_short_answer": "Answer: NFL owners"
+    },
+    {
+        "pred_short_answer": "Answer: September 13, 1961"
+    },
+    {
+        "pred_short_answer": "Answer: Sir Matt Busby"
+    },
+    {
+        "pred_short_answer": "Answer: Tiber"
+    },
+    {
+        "pred_short_answer": "Answer: Olympic Games"
+    },
+    {
+        "pred_short_answer": "Answer: Joey Lawrence"
+    },
+    {
+        "pred_short_answer": "Answer: Liguria, Italy"
+    },
+    {
+        "pred_short_answer": "Answer: Clayton Kershaw"
+    },
+    {
+        "pred_short_answer": "Answer: about 170 cm"
+    },
+    {
+        "pred_short_answer": "Answer: Key West, Florida"
+    },
+    {
+        "pred_short_answer": "Answer: Muhammad Ali Jinnah"
+    },
+    {
+        "pred_short_answer": "Answer: Dome of the Rock"
+    },
+    {
+        "pred_short_answer": "Answer: May 1940"
+    },
+    {
+        "pred_short_answer": "Answer: Rousseau"
+    },
+    {
+        "pred_short_answer": "Answer: Francisco Pizarro"
+    },
+    {
+        "pred_short_answer": "Answer: right ventricle"
+    },
+    {
+        "pred_short_answer": "Answer: The Southern Cross"
+    },
+    {
+        "pred_short_answer": "Answer: Aquila chrysaetos"
+    },
+    {
+        "pred_short_answer": "Answer: June 12, 2009"
+    },
+    {
+        "pred_short_answer": "Answer: Jordan Valley"
+    },
+    {
+        "pred_short_answer": "Answer: Chris Gifford"
+    },
+    {
+        "pred_short_answer": "Answer: Guillermo del Toro"
+    },
+    {
+        "pred_short_answer": "Answer: parthenogenesis"
+    },
+    {
+        "pred_short_answer": "Answer: Don Henley"
+    },
+    {
+        "pred_short_answer": "Answer: the theory of social construction of reality"
+    },
+    {
+        "pred_short_answer": "Answer: Paul Revere"
+    },
+    {
+        "pred_short_answer": "Answer: Ebenezer Howard"
+    },
+    {
+        "pred_short_answer": "Answer: Madison, Wisconsin"
+    },
+    {
+        "pred_short_answer": "Answer: Mexico City"
+    },
+    {
+        "pred_short_answer": "Answer: Halifax"
+    },
+    {
+        "pred_short_answer": "Answer: six"
+    },
+    {
+        "pred_short_answer": "Answer: Shirley Anne Field"
+    },
+    {
+        "pred_short_answer": "Answer: Ludwig Göransson"
+    },
+    {
+        "pred_short_answer": "Answer: the United States"
+    },
+    {
+        "pred_short_answer": "Answer: Spanish moss"
+    },
+    {
+        "pred_short_answer": "Answer: tuberous roots"
+    },
+    {
+        "pred_short_answer": "Answer: December 2, 2017"
+    },
+    {
+        "pred_short_answer": "Answer: trunk"
+    },
+    {
+        "pred_short_answer": "Answer: Johnathon Schaech"
+    },
+    {
+        "pred_short_answer": "Answer: one"
+    },
+    {
+        "pred_short_answer": "Answer: Simba"
+    },
+    {
+        "pred_short_answer": "Answer: January 17, 1981"
+    },
+    {
+        "pred_short_answer": "Answer: Two degrees of freedom"
+    },
+    {
+        "pred_short_answer": "Answer: Eyjafjallajökull"
+    },
+    {
+        "pred_short_answer": "Answer: New York"
+    },
+    {
+        "pred_short_answer": "Answer: Deon Richmond"
+    },
+    {
+        "pred_short_answer": "Answer: members"
+    }
+]
