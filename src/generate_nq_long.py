@@ -8,7 +8,7 @@ from typing import Dict
 from tqdm import tqdm
 from huggingface_hub import login
 
-login(token="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")
+login(token="")
 
 data_dir = "../data/NQ_output_middle_validation.json"
 output_dir = "../data/NQ_output_middle_validation_pred.json"
